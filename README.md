@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm **Emmanuel C. Jemeni (_@tallCoder02_)** 
+#### I'm **Emmanuel (_@tallCoder02_)** 
 
 - 🌱 I’m currently learning Python.
 - 😄 Pronouns: He/Him
