@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+#### I'm **Emmanuel C. Jemeni (_@tallCoder02_)** 
+
+- 🌱 I’m currently learning Python.
+- 😄 Pronouns: He/Him
+- 📫 How to reach me: [E-mail](mailto:jemenichinonso11@gmail.com) or [Twitter](https://twitter.com/_tallCoder02) 
+- ⚡ Fun fact: I chose my username when I didn't know any better and it's too late to change it now :grimacing:
+
 <!--
 **tallCoder02/tallCoder02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
