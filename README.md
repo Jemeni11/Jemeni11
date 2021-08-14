@@ -21,6 +21,22 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg" />
 
+<br />
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tallCoder02&layout=compact" />
+</p>
+
+<br />
+
+
+
+
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tallCoder02&layout=compact)](https://github.com/tallCoder02)
+[![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=tallCoder02)](https://github.com/tallCoder02)
+ -->
+
 <!--
 **tallCoder02/tallCoder02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
