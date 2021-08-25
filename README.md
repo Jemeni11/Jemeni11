@@ -1,4 +1,4 @@
-<img align="center" alt="Python" width="300px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />
+<img align="center" alt="Python" src="https://github.com/tallCoder02/tallCoder02/blob/main/tallCoder02.png" />
 
 ### Hi there 👋
 
