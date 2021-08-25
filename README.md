@@ -1,4 +1,5 @@
-<img align="center" alt="Python" src="https://github.com/tallCoder02/tallCoder02/blob/main/tallCoder02.png" />
+<img align="center" alt="tallCoder02" src="https://github.com/tallCoder02/tallCoder02/blob/main/tallCoder02Logo.png" />
+<br />
 
 ### Hi there 👋
 
