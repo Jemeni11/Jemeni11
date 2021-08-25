@@ -1,3 +1,5 @@
+<img align="center" alt="Python" width="300px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />
+
 ### Hi there 👋
 
 #### I'm **Emmanuel (_@tallCoder02_)** 
