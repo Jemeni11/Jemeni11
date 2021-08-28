@@ -24,17 +24,17 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" />
 <!-- <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg" />
 
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/tallCoder02/count.svg" />
-</p>
-
 <br />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tallCoder02&layout=compact" />
 
 <br />
  -->
+
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/tallCoder02/count.svg" />
+</p>
 
 
 
