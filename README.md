@@ -2,8 +2,9 @@
 
 #### I'm **Emmanuel** 
 
-- 🌱 I’m a programmer whose current favourite languages to use are Python, Dart, and JavaScript.
-- 😄 Pronouns: He/Him
+- 🌱 I use Python, Dart, and JavaScript.
+- 🔭 I am an aspiring Full Stack Developer.
+- 😄 My Pronouns are He/Him.
 
 ### Connect with me:
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />](https://twitter.com/__returnNull__)
