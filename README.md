@@ -1,18 +1,14 @@
-<img align="center" alt="tallCoder02" src="https://github.com/tallCoder02/tallCoder02/blob/main/tallCoder02Logo.png" />
-<br />
-
 ### Hi there 👋
 
-#### I'm **Emmanuel (_@tallCoder02_)** 
+#### I'm **Emmanuel** 
 
-- 🌱 I’m currently learning Python.
+- 🌱 I’m a programmer whose current favourite languages to use are Python, Dart, and JavaScript.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I chose my username when I didn't know any better and it's too late to change it now :grimacing:
 
 ### Connect with me:
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />](https://twitter.com/tallCoder02)
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />](https://twitter.com/__returnNull__)
 [<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](mailto:jemenichinonso11@gmail.com)
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />](https://www.instagram.com/tallcoder02/?hl=en)
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />](https://www.instagram.com/the11thwielder/?hl=en)
 
 <br />
 
