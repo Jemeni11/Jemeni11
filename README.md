@@ -7,8 +7,6 @@
 - 📝 I sometimes write articles on [Hashnode](https://jemeni11.hashnode.dev/) or [Dev.to](https://dev.to/jemeni11)
 - 😄 My Pronouns are He/Him.
 
-<br />
-
 ### Connect:
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />](https://twitter.com/__returnNull__)
 [<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](mailto:jemenichinonso11@gmail.com)
@@ -31,14 +29,6 @@
 
 <br/>
 
-<a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jemeni11&layout=compact" /></a>
-
-<br />
-
-<!-- <p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/jemeni11/count.svg" />
-</p> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jemeni11&label=Profile%20views&color=0e75b6&style=flat" alt="jemeni11" /> </p>
 
 <br />
