@@ -30,7 +30,7 @@
 ### Support:
 <p>
   <a href="https://www.buymeacoffee.com/jemeni11" target="_blank">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jemeni11=" />
+    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee=" />
   </a>
 </p>
 
@@ -41,7 +41,7 @@
 <hr>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jemeni11&label=Profile%20views&color=0e75b6&style=flat" alt="jemeni11" />
+  <img src="https://komarev.com/ghpvc/?username=jemeni11&label=Profile%20views&color=0e75b6&style=flat" alt="profile_views" height="50" width="210" />
 </p>
 <!-- 
 
