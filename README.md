@@ -11,8 +11,8 @@
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />](https://twitter.com/__returnNull__)
 [<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](mailto:jemenichinonso11@gmail.com)
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />](https://www.instagram.com/the11thwielder/?hl=en)
-[<img align="left" alt="Dev.to" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"/>](https://dev.to/jemeni11)
-[<img align="left" alt="Hashnode" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg"](https://jemeni11.hashnode.dev)
+[<img align="left" alt="Dev.to" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" />](https://dev.to/jemeni11)
+[<img align="left" alt="Hashnode" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" />](https://jemeni11.hashnode.dev)
                        
 <!-- <a href="https://linkedin.com/in/kromate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kromate" height="30" width="40" /></a> -->
 
