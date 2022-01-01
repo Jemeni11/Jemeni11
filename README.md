@@ -27,12 +27,7 @@
 
 <!-- <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg" /> -->
 
-### Support:
-<a href="https://www.buymeacoffee.com/jemeni11" target="_blank">
-  <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jemeni11=" />
-</a>
-
-<br>
+<br/>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jemeni11&layout=compact" />
 
@@ -43,6 +38,16 @@
   <img src="https://profile-counter.glitch.me/jemeni11/count.svg" />
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jemeni11&label=Profile%20views&color=0e75b6&style=flat" alt="jemeni11" /> </p>
+
+<br />
+
+### Support:
+<a href="https://www.buymeacoffee.com/jemeni11" target="_blank">
+  <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jemeni11=" />
+</a>
+
+<br />
+
 
 <!-- 
 
