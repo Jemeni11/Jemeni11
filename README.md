@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-#### I'm **Emmanuel** 
+### I'm **Emmanuel** 
 
 - 🌱 I use Python, Dart, and JavaScript.
 - 🔭 I am an aspiring Full Stack Developer.
@@ -27,10 +27,6 @@
 
 <!-- <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg" /> -->
 
-<br/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jemeni11&label=Profile%20views&color=0e75b6&style=flat" alt="jemeni11" /> </p>
-
 <br />
 
 ### Support:
@@ -40,7 +36,9 @@
 
 <br />
 
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=jemeni11&label=Profile%20views&color=0e75b6&style=flat" alt="jemeni11" />
+</p>
 <!-- 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kromate&show_icons=true&locale=en&layout=compact" alt="kromate" /></p>
