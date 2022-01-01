@@ -13,8 +13,6 @@
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />](https://www.instagram.com/the11thwielder/?hl=en)
 [<img align="left" alt="Dev.to" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" />](https://dev.to/jemeni11)
 [<img align="left" alt="Hashnode" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" />](https://jemeni11.hashnode.dev)
-                       
-<!-- <a href="https://linkedin.com/in/kromate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kromate" height="30" width="40" /></a> -->
 
 <br />
 
@@ -30,10 +28,13 @@
 <br />
 
 ### Support:
-<a href="https://www.buymeacoffee.com/jemeni11" target="_blank">
-  <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jemeni11=" />
-</a>
+<p>
+  <a href="https://www.buymeacoffee.com/jemeni11" target="_blank">
+    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jemeni11=" />
+  </a>
+</p>
 
+<br />
 <br />
 
 <p align="left">
