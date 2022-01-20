@@ -8,7 +8,7 @@
 - 😄 My Pronouns are He/Him.
 
 ### Connect:
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />](https://twitter.com/__returnNull__)
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />](https://twitter.com/Jemeni11_)
 [<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](mailto:jemenichinonso11@gmail.com)
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />](https://www.instagram.com/the11thwielder/?hl=en)
 [<img align="left" alt="Dev.to" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" />](https://dev.to/jemeni11)
