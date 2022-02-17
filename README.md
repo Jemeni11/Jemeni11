@@ -4,7 +4,7 @@
 
 - 🌱 I use Python, Dart, and JavaScript.
 - 🔭 I am an aspiring Full Stack Developer.
-- 📝 I sometimes write articles on [Hashnode](https://jemeni11.hashnode.dev/) or [Dev.to](https://dev.to/jemeni11)
+- 📝 I plan to write articles on [Hashnode](https://jemeni11.hashnode.dev/) and [Dev.to](https://dev.to/jemeni11)
 - 😄 My Pronouns are He/Him.
 
 ### Connect:
