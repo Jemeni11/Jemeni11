@@ -2,7 +2,7 @@
 
 ### I'm **Emmanuel** 
 
-- 🌱 I use Python, Dart, and JavaScript but I’m currently learning React.
+- 🌱 I use Python, Dart, and JavaScript (I’m currently learning React).
 - 🔭 I am an aspiring Full Stack Developer.
 - 📝 I plan to write articles on [Hashnode](https://jemeni11.hashnode.dev/) and [Dev.to](https://dev.to/jemeni11)
 - 😄 My Pronouns are He/Him.
