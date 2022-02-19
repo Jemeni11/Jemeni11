@@ -2,15 +2,16 @@
 
 ### I'm **Emmanuel** 
 
-- 🌱 I use Python, Dart, and JavaScript.
+- 🌱 I use Python, Dart, and JavaScript but I’m currently learning React.
 - 🔭 I am an aspiring Full Stack Developer.
 - 📝 I plan to write articles on [Hashnode](https://jemeni11.hashnode.dev/) and [Dev.to](https://dev.to/jemeni11)
 - 😄 My Pronouns are He/Him.
 
+
+
 ### Connect:
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />](https://twitter.com/Jemeni11_)
 [<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](mailto:jemenichinonso11@gmail.com)
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />](https://www.instagram.com/the11thwielder/?hl=en)
 [<img align="left" alt="Dev.to" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" />](https://dev.to/jemeni11)
 [<img align="left" alt="Hashnode" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" />](https://jemeni11.hashnode.dev)
 
@@ -22,8 +23,6 @@
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" />
-
-<!-- <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg" /> -->
 
 <br />
 
@@ -41,17 +40,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jemeni11&label=Profile%20views&color=0e75b6&style=flat" alt="profile_views" height="50" width="210" />
 </p>
-<!-- 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kromate&show_icons=true&locale=en&layout=compact" alt="kromate" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kromate&show_icons=true&locale=en" alt="kromate" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kromate&" alt="kromate" /></p>
-<!-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tallCoder02&layout=compact)](https://github.com/tallCoder02)
-[![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=tallCoder02)](https://github.com/tallCoder02)
- -->
 
 <!--
 **tallCoder02/tallCoder02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
