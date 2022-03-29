@@ -25,15 +25,6 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" />
 
 <br />
-
-### Support:
-<p>
-  <a href="https://www.buymeacoffee.com/jemeni11" target="_blank">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee=" />
-  </a>
-</p>
-
-<br />
 <br />
 <hr>
 
@@ -42,6 +33,13 @@
 </p>
 
 <!--
+
+### Support:
+<p>
+  <a href="https://www.buymeacoffee.com/jemeni11" target="_blank">
+    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee=" />
+  </a>
+</p>
 **tallCoder02/tallCoder02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
