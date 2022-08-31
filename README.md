@@ -1,25 +1,15 @@
-## Hi there 👋
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22px">
 
-### I'm **Emmanuel** 
+### I'm **Emmanuel**  👋 
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/jemeni11)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://jemeni11.hashnode.dev)
 [![G Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jemenichinonso11@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-jemeni-01858818b/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Jemeni11_)
 
-- 🌱 I use Python, Dart, and JavaScript (I’m currently learning React).
-- 🔭 I am an aspiring Full Stack Developer.
+- 🌱 I write Python, Dart, and JavaScript (I’m currently learning React).
+- 🔭 I am a Frontend Web Developer.
 - 😄 My Pronouns are He/Him.
-
-
-
-<!-- ### Connect: -->
-<!-- [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />](https://twitter.com/Jemeni11_)
-[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](mailto:jemenichinonso11@gmail.com)
-[<img align="left" alt="Dev.to" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" />](https://dev.to/jemeni11)
-[<img align="left" alt="Hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hashnode.svg" />](https://jemeni11.hashnode.dev) -->
-
-<br />
 
 ### Languages and Tools:
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -46,6 +36,10 @@
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+
+### Profile Details:
+
+<img src="https://img.shields.io/github/last-commit/Jemeni11/Jemeni11" alt="Jemeni11" />
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jemeni11&theme=vue)
 
