@@ -39,8 +39,6 @@
 
 ### Profile Details:
 
-<img src="https://img.shields.io/github/last-commit/Jemeni11/Jemeni11" alt="Jemeni11" />
-
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jemeni11&theme=vue)
 
 ![Readme Stats](https://github-readme-stats.vercel.app/api?username=jemeni11)
