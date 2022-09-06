@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22px">
+## Hi there <img src="https://github.com/Jemeni11/hosting-pics/blob/main/wave.gif?raw=true" width="22px">
 
 ### I'm **Emmanuel**  👋 
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/jemeni11)
