@@ -39,12 +39,6 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
-### Profile Details:
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jemeni11&theme=vue)
-
-![Readme Stats](https://github-readme-stats.vercel.app/api?username=jemeni11)
-
 <!--
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/jemeni11)
 **Jemeni11/Jemeni11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
