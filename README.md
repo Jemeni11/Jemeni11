@@ -7,11 +7,15 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-jemeni)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Jemeni11_)
 
-- 🌱 I write Python, Dart, and JavaScript (I’m currently learning React).
+- 🌱 I write Python, Dart, and JavaScript (I’m currently learning NextJS).
 - 🔭 I am a Frontend Web Developer.
 - 😄 My Pronouns are He/Him.
-- 🔭 I’m currently working on my [portfolio](https://github.com/Jemeni11/Portfolio-Website). [![wakatime](https://wakatime.com/badge/user/9591263b-0088-4aba-95ef-56b0c55c8478/project/e08b1b5e-3aac-46fa-b6f3-b9ccb735bf5d.svg)](https://wakatime.com/badge/user/9591263b-0088-4aba-95ef-56b0c55c8478/project/e08b1b5e-3aac-46fa-b6f3-b9ccb735bf5d)
+- 🔭 I’m currently working on my [portfolio](https://github.com/Jemeni11/Portfolio-Website).
 - ⚡ My last project: [A shopping web app built with React, Redux (ToolKit), React Router and Vite.](https://github.com/Jemeni11/React-Redux-Shopping-App)
+<!--  
+- 🔭 I’m currently working on my [portfolio](https://github.com/Jemeni11/Portfolio-Website). [![wakatime](https://wakatime.com/badge/user/9591263b-0088-4aba-95ef-56b0c55c8478/project/e08b1b5e-3aac-46fa-b6f3-b9ccb735bf5d.svg)](https://wakatime.com/badge/user/9591263b-0088-4aba-95ef-56b0c55c8478/project/e08b1b5e-3aac-46fa-b6f3-b9ccb735bf5d)
+-->
+
 
 ### Languages and Tools:
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
