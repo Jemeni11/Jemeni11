@@ -10,12 +10,8 @@
 - 🌱 I write Python, Dart, and JavaScript (I’m currently learning NextJS).
 - 🔭 I am a Frontend Web Developer.
 - 😄 My Pronouns are He/Him.
-- 🔭 I’m currently working on my [portfolio](https://github.com/Jemeni11/Portfolio-Website).
-- ⚡ My last project: [A shopping web app built with React, Redux (ToolKit), React Router and Vite.](https://github.com/Jemeni11/React-Redux-Shopping-App)
-<!--  
-- 🔭 I’m currently working on my [portfolio](https://github.com/Jemeni11/Portfolio-Website). [![wakatime](https://wakatime.com/badge/user/9591263b-0088-4aba-95ef-56b0c55c8478/project/e08b1b5e-3aac-46fa-b6f3-b9ccb735bf5d.svg)](https://wakatime.com/badge/user/9591263b-0088-4aba-95ef-56b0c55c8478/project/e08b1b5e-3aac-46fa-b6f3-b9ccb735bf5d)
--->
-
+- 🔭 I’m currently working on my [portfolio](https://github.com/Jemeni11/Portfolio).
+- ⚡ My last project: [A Journal Template.](https://github.com/Jemeni11/Python-Scripts/tree/master/Journal%20Template)
 
 ### Languages and Tools:
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
