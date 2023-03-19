@@ -7,11 +7,12 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-jemeni)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Jemeni11_)
 
-- 🌱 I write Python, Dart, and JavaScript (I’m currently learning NextJS).
+- 🔭 I write Python, Dart, and JavaScript.
+- 🌱 I’m currently learning NextJS & TailwindCSS.
 - 🔭 I am a Frontend Web Developer.
 - 😄 My Pronouns are He/Him.
 - 🔭 I’m currently working on my [portfolio](https://github.com/Jemeni11/Portfolio).
-- ⚡ My last project: [A Journal Template.](https://github.com/Jemeni11/Python-Scripts/tree/master/Journal%20Template)
+- ⚡ My last project: [A Chrome Extension Template.](https://github.com/Jemeni11/Chrome-Extension-CRXJS-Vite-TS-Template)
 
 ### Languages and Tools:
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
