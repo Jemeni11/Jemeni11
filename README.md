@@ -8,7 +8,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Jemeni11_)
 
 - 💬 I write Python, Dart, and JavaScript.
-- 🌱 I’m currently learning NextJS & TailwindCSS.
+- 🌱 I’m currently learning NodeJS.
 - 🔭 I am a Frontend Web Developer.
 - 😄 My Pronouns are He/Him.
 - 🔭 I’m currently working on a [QR Code Scanner](https://github.com/Jemeni11/QR-Code-Scanner).
