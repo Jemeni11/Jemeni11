@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-jemeni)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Jemeni11_)
 
-- 💬 I write Python, Dart, and JavaScript.
+- 💬 I write Python, Dart, and JavaScript (ReactJS, NextJS).
 - 🌱 I’m currently learning NodeJS.
 - 🔭 I am a Frontend Web Developer.
 - 😄 My Pronouns are He/Him.
