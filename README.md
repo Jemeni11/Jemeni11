@@ -16,7 +16,6 @@
 
 ### Languages and Tools:
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/TR/CSS/#css)
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
@@ -26,19 +25,13 @@
 [![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/)
 [![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
 [![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
-[![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com/)
 
 [![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
 [![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
 [![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
-[![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)](https://yarnpkg.com/)
-[![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
-[![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](https://json.org/)
 
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev)
 [![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/)
-
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
@@ -54,7 +47,7 @@
     - This web app allows buyers to browse products by categories, add them to their cart, and checkout.
 - [FicImage](https://pypi.org/project/FicImageScript/) - [GitHub Repo](https://github.com/Jemeni11/FicImage)
 
-    FicImage is an application designed to enhance the reading experience of FicHub epubs. With FicImage, users can easily add missing images to their FicHub epubs, bringing the stories to life with vibrant visuals. Built with Python3. 
+    FicImage is an application designed to enhance the reading experience of [FicHub](https://fichub.net) epubs. With FicImage, users can easily add missing images to their FicHub epubs, bringing the stories to life with vibrant visuals. Built with Python3. 
 - [Rest-Countries API App](https://jemeni-rest-countries.netlify.app/) - [GitHub Repo](https://github.com/Jemeni11/FrontendMentor/tree/11-rest-countries-api)
   - Built an app that consumes a REST API and displays a list of countries. 
   - Users can see all countries from the API on the homepage, search for a country using an input field, filter countries by region, click on a country to see more detailed information on a separate page, click through to the border countries on the detail page, and toggle the colour scheme between light and dark modes. 
@@ -94,6 +87,47 @@
 - [Tip Calculator Mobile App - Splitter](https://expo.dev/@jemeni11/tip-calculator) - [GitHub Repo](https://github.com/Jemeni11/Tip-Splitter-Mobile-App)
 
   - Built a mobile app version of the Tip Calculator Web App with React Native and Expo
+
+- [ePub File Viewer](https://github.com/Jemeni11/ePub-File-Viewer)
+    - An application that lets you explore the contents of an ePub file.
+    - Built with React Native, Expo and JSZip.
+    - [This reply](https://github.com/victorsoares96/epubjs-react-native/issues/69#issuecomment-1425816021) to an issue I created inspired this project.
+
+- [WiFi Password Extractor CLI](https://github.com/Jemeni11/WiFi-Password-Extractor-CLI)
+    - A Python script that retrieves all saved Wi-Fi names and passwords.
+    - Currently only works on Windows OS (Linux support is a WIP). 
+
+#### Work In Progress
+  - [Intergalactic Encyclopedia](https://github.com/Jemeni11/intergalactic-encyclopedia)
+    
+    Intergalactic Encyclopedia is your ultimate guide to the Star Wars universe! This comprehensive application provides detailed information on planets, spaceships, vehicles, people, films, and species from a galaxy far, far away.
+    Building with React v18, React Native v0.71.4, Expo SDK v48, Typescript v5, Expo Router v1, React Native Safe Area Context v4, Expo Fonts v11, Expo Google Fonts v0.2.3 ([Barlow](https://fonts.google.com/specimen/Barlow)) 
+
+  - [Ebook reader](https://github.com/Jemeni11/Ebook-Reader)
+  
+    - A mobile app for reading ePUBs and PDFs
+    - Building with Expo, React Native and [@epubjs-react-native](https://github.com/victorsoares96/epubjs-react-native)
+    - This project inspired [this pull request](https://github.com/victorsoares96/epubjs-react-native/pull/73) 
+
+  - [ContactHub](https://github.com/Jemeni11/ContactHub)
+    
+    A NextJS Progressive Web App for storing and sharing contacts.
+    
+  - [Introspectia](https://github.com/Jemeni11/Introspectia)
+    
+    A personal journaling web app.
+
+  - [FicFavorites](https://github.com/Jemeni11/FicFavorites)
+
+    FicFavorites is a browser extension that helps you keep track of your favourite fanfiction stories.
+
+  - [QR Code Scanner](https://github.com/Jemeni11/QR-Code-Scanner)
+    
+     A mobile for scanning QR codes
+
+  - [Portfolio Website](https://github.com/Jemeni11/Portfolio)
+
+  - Unnamed VSCode ePub reader extension
 
 <!--
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/jemeni11)
