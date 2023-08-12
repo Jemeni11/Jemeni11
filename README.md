@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-jemeni)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Jemeni11_)
 
-- 💬 I write Python, Dart, and JavaScript (ReactJS, NextJS).
+- 💬 I write JavaScript (ReactJS, NextJS) and Python.
 - 🌱 I’m currently learning NodeJS.
 - 🔭 I am a Frontend Web Developer.
 - 😄 My Pronouns are He/Him.
@@ -45,6 +45,55 @@
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+
+
+### Projects
+#### Completed Projects
+- [E-Commerce Shopping App](https://jemeni-react-redux-shopping-app.netlify.app/) - [GitHub Repo](https://github.com/Jemeni11/React-Redux-Shopping-App)
+    - Built an e-commerce shopping app using React js, Redux (ToolKit), React Router, Vite and data gotten from the FakeStoreApi.
+    - This web app allows buyers to browse products by categories, add them to their cart, and checkout.
+- [FicImage](https://pypi.org/project/FicImageScript/) - [GitHub Repo](https://github.com/Jemeni11/FicImage)
+
+    FicImage is an application designed to enhance the reading experience of FicHub epubs. With FicImage, users can easily add missing images to their FicHub epubs, bringing the stories to life with vibrant visuals. Built with Python3. 
+- [Rest-Countries API App](https://jemeni-rest-countries.netlify.app/) - [GitHub Repo](https://github.com/Jemeni11/FrontendMentor/tree/11-rest-countries-api)
+  - Built an app that consumes a REST API and displays a list of countries. 
+  - Users can see all countries from the API on the homepage, search for a country using an input field, filter countries by region, click on a country to see more detailed information on a separate page, click through to the border countries on the detail page, and toggle the colour scheme between light and dark modes. 
+  - Built with a mobile-first workflow, HTML5 , CSS3, React JS, React Router, and Vite.
+- [Vite Template](https://github.com/Jemeni11/vite-react-ts-tailwind-react-router-redux-toolkit)
+  
+  This is a vite template with the following installed:
+    - Vite 4.0.0
+    - React 18.2.0
+    - Typescript 4.9.3
+    - TailwindCSS 3.2.4
+    - React Router 6.8.0
+    - React Redux 8.0.5
+    - Redux Toolkit 1.9.1
+
+- [IP Address Tracker App](https://jemeni-ip-tracker.netlify.app/) - [GitHub Repo](https://github.com/Jemeni11/FrontendMentor/tree/09-ip-address-tracker-main)
+    - Built an IP Address Tracker app with the IP Geolocation API for getting the user's location and LeafletJS library to generate a map showing the user’s location.
+  - Built with HTML5, CSS3, and React JS.
+
+- [Journal Template](https://github.com/Jemeni11/Python-Scripts/tree/master/Journal%20Template)
+  
+  - Developed a Python script to automate the process of journaling.
+  - Created a user-friendly interface within the script to input a customized date or utilize the current date for journal entry initiation.
+  - Implemented automatic document creation with a well-structured nomenclature: "Week 01 of the Year 2023 (1.1 - 8.1).docx".
+
+- [Chromium-Based Browser Extension Template](https://github.com/Jemeni11/Chrome-Extension-CRXJS-Vite-TS-Template)
+
+  - Developed an extension template tailored for Chromium-based browsers.
+  - Built with CRXJS, Vite, and Typescript.
+  - The extension was tested on Chrome, Edge, Brave, and Opera.
+
+- [Tip Calculator Web App](https://jemeni-tip-calculator.netlify.app/) - [GitHub Repo](https://github.com/Jemeni11/FrontendMentor/tree/06-tip-calculator-app-main)
+  
+    - Built a tip calculator app that helps you calculate the tip and split the total bill between friends!
+    - Built with HTML5, CSS3, and JavaScript.
+
+- [Tip Calculator Mobile App - Splitter](https://expo.dev/@jemeni11/tip-calculator) - [GitHub Repo](https://github.com/Jemeni11/Tip-Splitter-Mobile-App)
+
+  - Built a mobile app version of the Tip Calculator Web App with React Native and Expo
 
 <!--
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/jemeni11)
