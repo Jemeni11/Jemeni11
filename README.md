@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning NodeJS.
 - 🔭 I am a Frontend Web Developer.
 - 😄 My Pronouns are He/Him.
-- 🔭 I’m currently working on a [QR Code Scanner](https://github.com/Jemeni11/QR-Code-Scanner).
+- 🔭 I’m currently working on: See the **Work In Progress** section.
 - ⚡ My last project: [FicImage](https://github.com/Jemeni11/FicImage).
 
 ### Languages and Tools:
@@ -98,6 +98,25 @@
     - Currently only works on Windows OS (Linux support is a WIP). 
 
 #### Work In Progress
+
+  - [AuthorCraft](https://author-craft.vercel.app/) - [GitHub Repo](https://github.com/Jemeni11/AuthorCraft)
+
+    AuthorCraft empowers writers of all backgrounds to harness their creativity, providing a user-friendly and intuitive platform for crafting stories, novels, and ebooks. Whether you're an aspiring novelist, a seasoned author, or a student, our robust toolkit is designed to inspire and support your writing endeavors.
+
+    Building with React, NextJS, shadcn (TailwindCSS + Radix UI), Hanko Auth, Supabase Database.
+
+    While working on this project, I submitted a [pull request to the Hanko Docs repository](https://github.com/teamhanko/docs/pull/19), and it got merged.
+
+  - [AspectMatic](https://github.com/Jemeni11/AspectMatic) 
+
+    AspectMatic is a figma plugin for developers that automates aspect ratio calculations. I got tired of calculating the long way so I'm making a plugin to do it for me.
+
+    Building with HTML, CSS3, and Javascript/Typescript (The Big Three lol) + Figma's TS typings library. 
+
+  - [CrossRename](https://github.com/Jemeni11/CrossRename)
+
+    CrossRename is a tool that helps make your file names work perfectly with your computer. It doesn't matter if you use Linux, Windows, or both. CrossRename makes sure your file names follow your computer's rules, so everything runs smoothly.
+
   - [Intergalactic Encyclopedia](https://github.com/Jemeni11/intergalactic-encyclopedia)
     
     Intergalactic Encyclopedia is your ultimate guide to the Star Wars universe! This comprehensive application provides detailed information on planets, spaceships, vehicles, people, films, and species from a galaxy far, far away.
@@ -125,7 +144,7 @@
     
      A mobile for scanning QR codes
 
-  - [Portfolio Website](https://github.com/Jemeni11/Portfolio)
+  - [Portfolio Website](https://github.com/Jemeni11/jemeni)
 
   - Unnamed VSCode ePub reader extension
 
