@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning NodeJS.
 - 🔭 I am a Frontend Web Developer.
 - 😄 My Pronouns are He/Him.
-- 🔭 I’m currently working on: See the **Work In Progress** section.
+- 🔭 I’m currently working on: See the [Work In Progress](#work-in-progress) section.
 - ⚡ My last project: [FicImage](https://github.com/Jemeni11/FicImage).
 
 ### Languages and Tools:
