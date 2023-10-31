@@ -11,8 +11,9 @@
 - 🌱 I’m currently learning NodeJS.
 - 🔭 I am a Frontend Web Developer.
 - 😄 My Pronouns are He/Him.
-- 🔭 I’m currently working on: See the [Work In Progress](#work-in-progress) section.
+- 🔭 See what I am [currently working on](#work-in-progress).
 - ⚡ My last project: [FicImage](https://github.com/Jemeni11/FicImage).
+- 💰 If you'd like, you can support me on [GitHub Sponsors](https://github.com/sponsors/Jemeni11/)
 
 ### Languages and Tools:
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
