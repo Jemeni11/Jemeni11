@@ -12,7 +12,7 @@
 - 🔭 I am a Frontend Web Developer.
 - 😄 My Pronouns are He/Him.
 - 🔭 See what I am [currently working on](#work-in-progress).
-- ⚡ My last project: [FicImage](https://github.com/Jemeni11/FicImage).
+- ⚡ My last project was [AspectMatic](https://www.figma.com/community/plugin/1297912439687792545/aspectmatic).
 - 💰 If you'd like, you can support me on [GitHub Sponsors](https://github.com/sponsors/Jemeni11/)
 
 ### Languages and Tools:
@@ -43,8 +43,14 @@
 
 ### Projects
 #### Completed Projects
+  - [AspectMatic](https://www.figma.com/community/plugin/1297912439687792545/aspectmatic) - [GitHub Repo](https://github.com/Jemeni11/AspectMatic) 
+
+    AspectMatic is a Figma plugin for developers that automates aspect ratio calculations. I got tired of calculating the long way so I made a plugin to do it for me.
+
+    Built with HTML, CSS3, and Javascript/Typescript.
+    
 - [E-Commerce Shopping App](https://jemeni-react-redux-shopping-app.netlify.app/) - [GitHub Repo](https://github.com/Jemeni11/React-Redux-Shopping-App)
-    - Built an e-commerce shopping app using React js, Redux (ToolKit), React Router, Vite and data gotten from the FakeStoreApi.
+    - Built an e-commerce shopping app using React js, Redux (ToolKit), React Router, Vite, and data gotten from the FakeStoreApi.
     - This web app allows buyers to browse products by categories, add them to their cart, and checkout.
 - [FicImage](https://pypi.org/project/FicImageScript/) - [GitHub Repo](https://github.com/Jemeni11/FicImage)
 
@@ -107,12 +113,6 @@
     Building with React, NextJS, shadcn (TailwindCSS + Radix UI), Hanko Auth, Supabase Database.
 
     While working on this project, I submitted a [pull request to the Hanko Docs repository](https://github.com/teamhanko/docs/pull/19), and it got merged.
-
-  - [AspectMatic](https://github.com/Jemeni11/AspectMatic) 
-
-    AspectMatic is a figma plugin for developers that automates aspect ratio calculations. I got tired of calculating the long way so I'm making a plugin to do it for me.
-
-    Building with HTML, CSS3, and Javascript/Typescript (The Big Three lol) + Figma's TS typings library. 
 
   - [CrossRename](https://github.com/Jemeni11/CrossRename)
 
