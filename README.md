@@ -121,6 +121,7 @@
   - [Intergalactic Encyclopedia](https://github.com/Jemeni11/intergalactic-encyclopedia)
     
     Intergalactic Encyclopedia is your ultimate guide to the Star Wars universe! This comprehensive application provides detailed information on planets, spaceships, vehicles, people, films, and species from a galaxy far, far away.
+
     
     Building with React, React Native, Expo SDK, Typescript, Expo Router, Expo Google Fonts 
 
