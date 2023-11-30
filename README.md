@@ -143,7 +143,7 @@
 
     FicFavorites is a browser extension that helps you keep track of your favourite fanfiction stories.
 
-  - [QR Code Scanner](https://github.com/Jemeni11/QR-Code-Scanner)
+  - [SnapQR](https://github.com/Jemeni11/SnapQR)
     
      A mobile for scanning QR codes
 
