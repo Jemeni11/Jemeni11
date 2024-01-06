@@ -130,7 +130,7 @@
     - Building with Expo, React Native and [@epubjs-react-native](https://github.com/victorsoares96/epubjs-react-native)
     - This project inspired [this pull request](https://github.com/victorsoares96/epubjs-react-native/pull/73) 
 
-  - [ContactHub](https://github.com/Jemeni11/ContactHub)
+  - [Connectify](https://connectify-jemeni.vercel.app) - [GitHub Repo](https://github.com/Jemeni11/Connectify)
     
     A NextJS Progressive Web App for storing and sharing contacts.
     
