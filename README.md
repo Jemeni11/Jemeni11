@@ -109,10 +109,16 @@
 
     AuthorCraft empowers writers of all backgrounds to harness their creativity, providing a user-friendly and intuitive platform for crafting stories, novels, and ebooks. Whether you're an aspiring novelist, a seasoned author, or a student, our robust toolkit is designed to inspire and support your writing endeavors.
 
-    Building with React, NextJS, shadcn (TailwindCSS + Radix UI), Hanko Auth, Supabase Database.
+    Building with React, NextJS, Hanko Auth, Supabase Database, and shadcn (TailwindCSS + Radix UI).
 
     While working on this project, I submitted a [pull request to the Hanko Docs repository](https://github.com/teamhanko/docs/pull/19), and it got merged.
 
+  - [Connectify](https://connectify-jemeni.vercel.app) - [GitHub Repo](https://github.com/Jemeni11/Connectify)
+    
+    The NextJS-powered PWA for effortless contact management.
+
+    Building with React, NextJS, @ducanh2912/next-pwa, Rough Notation, Clerk Auth, and shadcn (TailwindCSS + Radix UI).
+    
   - [CrossRename](https://github.com/Jemeni11/CrossRename)
 
     CrossRename is a tool that helps make your file names work perfectly with your computer. It doesn't matter if you use Linux, Windows, or both. CrossRename makes sure your file names follow your computer's rules, so everything runs smoothly.
@@ -129,10 +135,6 @@
     - A mobile app for reading ePUBs and PDFs
     - Building with Expo, React Native and [@epubjs-react-native](https://github.com/victorsoares96/epubjs-react-native)
     - This project inspired [this pull request](https://github.com/victorsoares96/epubjs-react-native/pull/73) 
-
-  - [Connectify](https://connectify-jemeni.vercel.app) - [GitHub Repo](https://github.com/Jemeni11/Connectify)
-    
-    A NextJS Progressive Web App for storing and sharing contacts.
     
   - [Introspectia](https://github.com/Jemeni11/Introspectia)
     
