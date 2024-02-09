@@ -118,6 +118,16 @@
     The NextJS-powered PWA for effortless contact management.
 
     Building with React, NextJS, @ducanh2912/next-pwa, Rough Notation, Clerk Auth, and shadcn (TailwindCSS + Radix UI).
+
+  - [StatusSnip](https://github.com/Jemeni11/StatusSnip)
+
+    Trim, Snap, Share! Your shortcut to perfectly sliced WhatsApp status videos.
+
+    Slice and dice your videos with StatusSnip! 🎬 Trim your tales, snap your highlights, and share seamlessly on WhatsApp. No more 30-second limits – just the good stuff, straight to your status. Download now and make every moment count!
+
+  - [SnapQR](https://github.com/Jemeni11/SnapQR)
+    
+     Beyond Scanning - Remake, Share, and Explore. SnapQR is a QR code scanner and generator app for mobile devices. Building with React Native and Expo.
     
   - [CrossRename](https://github.com/Jemeni11/CrossRename)
 
@@ -127,7 +137,6 @@
     
     Intergalactic Encyclopedia is your ultimate guide to the Star Wars universe! This comprehensive application provides detailed information on planets, spaceships, vehicles, people, films, and species from a galaxy far, far away.
 
-    
     Building with React, React Native, Expo SDK, Typescript, Expo Router, Expo Google Fonts 
 
   - [Ebook reader](https://github.com/Jemeni11/Ebook-Reader)
@@ -143,10 +152,6 @@
   - [FicFavorites](https://github.com/Jemeni11/FicFavorites)
 
     FicFavorites is a browser extension that helps you keep track of your favourite fanfiction stories.
-
-  - [SnapQR](https://github.com/Jemeni11/SnapQR)
-    
-     A mobile for scanning QR codes
 
   - [Portfolio Website](https://github.com/Jemeni11/jemeni)
 
