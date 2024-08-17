@@ -15,27 +15,10 @@
 - ⚡ My last project was [AspectMatic](https://www.figma.com/community/plugin/1297912439687792545/aspectmatic).
 - 💰 If you'd like, you can support me on [GitHub Sponsors](https://github.com/sponsors/Jemeni11/)
 
-<!--
 ### Languages and Tools:
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/TR/CSS/#css)
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/)
-[![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
-[![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
-[![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
-[![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
-[![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
-[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev)
-[![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/)
-[![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
-[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
--->
+- **Languages** - HTML5, CSS3, JavaScript, TypeScript, Python3
+- **Frameworks/Libraries/Toolkits** - React, NextJS, TailwindCSS, SASS/SCSS, React Native, Redux (Toolkit), React Router, Zustand
+- **Tools** - Expo SDK, Vite, Clerk, Git, VS Code, PyCharm, Vercel, Netlify, GitHub, Firebase, Yarn, NPM, Chrome
 
 ### Articles
 - Boost Your Productivity with Shell Commands: A beginner's guide to creating aliases and functions - [Hashnode](https://jemeni11.hashnode.dev/boost-your-productivity-with-shell-commands) • [Dev.to](https://dev.to/jemeni11/boost-your-productivity-with-shell-commands-a-beginners-guide-to-creating-aliases-and-functions-255e)
@@ -45,13 +28,14 @@
 #### Completed Projects
   - [AspectMatic](https://www.figma.com/community/plugin/1297912439687792545/aspectmatic) - [GitHub Repo](https://github.com/Jemeni11/AspectMatic) 
 
-    AspectMatic is a Figma plugin for developers that automates aspect ratio calculations. I got tired of calculating the long way so I made a plugin to do it for me.
+    AspectMatic is a Figma plugin that automates aspect ratio calculations for developers. I got tired of calculating the long way so I made a plugin.
 
     Built with HTML, CSS3, and Javascript/Typescript.
     
 - [E-Commerce Shopping App](https://jemeni-react-redux-shopping-app.netlify.app/) - [GitHub Repo](https://github.com/Jemeni11/React-Redux-Shopping-App)
     - Built an e-commerce shopping app using React js, Redux (ToolKit), React Router, Vite, and data gotten from the FakeStoreApi.
     - This web app allows buyers to browse products by categories, add them to their cart, and checkout.
+
 - [FicImage](https://pypi.org/project/FicImageScript/) - [GitHub Repo](https://github.com/Jemeni11/FicImage)
 
     FicImage is an application designed to enhance the reading experience of [FicHub](https://fichub.net) epubs. With FicImage, users can easily add missing images to their FicHub epubs, bringing the stories to life with vibrant visuals. Built with Python3. 
@@ -106,9 +90,11 @@
 
 #### Work In Progress
 
+##### Web
+
   - [AuthorCraft](https://author-craft.vercel.app/) - [GitHub Repo](https://github.com/Jemeni11/AuthorCraft)
 
-    AuthorCraft empowers writers of all backgrounds to harness their creativity, providing a user-friendly and intuitive platform for crafting stories, novels, and ebooks. Whether you're an aspiring novelist, a seasoned author, or a student, our robust toolkit is designed to inspire and support your writing endeavors.
+    AuthorCraft empowers writers of all backgrounds to harness their creativity, providing a user-friendly and intuitive platform for crafting stories, novels, and ebooks. Whether you're an aspiring novelist, a seasoned author, or a student, our robust toolkit is designed to inspire and support your writing endeavours.
 
     Building with React, NextJS, Hanko Auth, Supabase Database, and shadcn (TailwindCSS + Radix UI).
 
@@ -120,6 +106,14 @@
 
     Building with React, NextJS, @ducanh2912/next-pwa, Rough Notation, Clerk Auth, and shadcn (TailwindCSS + Radix UI).
 
+  - [Introspectia](https://github.com/Jemeni11/Introspectia)
+    
+    A personal journaling web app.
+
+  - [Portfolio Website](https://github.com/Jemeni11/jemeni)
+
+##### Mobile
+
   - [StatusSnip](https://github.com/Jemeni11/StatusSnip)
 
     Trim, Snap, Share! Your shortcut to perfectly sliced WhatsApp status videos.
@@ -129,10 +123,6 @@
   - [SnapQR](https://github.com/Jemeni11/SnapQR)
     
      Beyond Scanning - Remake, Share, and Explore. SnapQR is a QR code scanner and generator app for mobile devices. Building with React Native and Expo.
-    
-  - [CrossRename](https://github.com/Jemeni11/CrossRename)
-
-    CrossRename is a tool that helps make your file names work perfectly with your computer. It doesn't matter if you use Linux, Windows, or both. CrossRename makes sure your file names follow your computer's rules, so everything runs smoothly.
 
   - [Intergalactic Encyclopedia](https://github.com/Jemeni11/intergalactic-encyclopedia)
     
@@ -146,17 +136,20 @@
     - Building with Expo, React Native and [@epubjs-react-native](https://github.com/victorsoares96/epubjs-react-native)
     - This project inspired [this pull request](https://github.com/victorsoares96/epubjs-react-native/pull/73) 
     
-  - [Introspectia](https://github.com/Jemeni11/Introspectia)
-    
-    A personal journaling web app.
+##### Extensions
 
-  - [FicFavorites](https://github.com/Jemeni11/FicFavorites)
+  - [Tales Trove](https://github.com/Jemeni11/Tales-Trove)
 
-    FicFavorites is a browser extension that helps you keep track of your favourite fanfiction stories.
-
-  - [Portfolio Website](https://github.com/Jemeni11/jemeni)
+    TalesTrove is a browser extension that allows users to easily save links to their favorite fictional stories and series. Building with Plasmo.
 
   - Unnamed VSCode ePub reader extension
+
+##### Terminal
+
+  - [CrossRename](https://github.com/Jemeni11/CrossRename)
+
+    CrossRename is a tool that helps make your file names work perfectly with your computer. It doesn't matter if you use Linux, Windows, or both. CrossRename makes sure your file names follow your computer's rules, so everything runs smoothly.
+
 
 <!--
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/jemeni11)
