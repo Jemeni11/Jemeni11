@@ -43,16 +43,16 @@
   - Built an app that consumes a REST API and displays a list of countries. 
   - Users can see all countries from the API on the homepage, search for a country using an input field, filter countries by region, click on a country to see more detailed information on a separate page, click through to the border countries on the detail page, and toggle the colour scheme between light and dark modes. 
   - Built with a mobile-first workflow, HTML5 , CSS3, React JS, React Router, and Vite.
-- [Vite Template](https://github.com/Jemeni11/vite-react-ts-tailwind-react-router-redux-toolkit)
+- [ReactViteTS](https://github.com/Jemeni11/ReactViteTS)
   
   This is a vite template with the following installed:
-    - Vite 4.0.0
-    - React 18.2.0
-    - Typescript 4.9.3
-    - TailwindCSS 3.2.4
-    - React Router 6.8.0
-    - React Redux 8.0.5
-    - Redux Toolkit 1.9.1
+  - Vite 5.4.1
+  - React 18.3.1
+  - Typescript 5.5.3
+  - TailwindCSS 3.4.10
+  - Prettier 3.3.3
+  - prettier-plugin-tailwind 0.6.6
+  - ESLint 9.9.0
 
 - [IP Address Tracker App](https://jemeni-ip-tracker.netlify.app/) - [GitHub Repo](https://github.com/Jemeni11/FrontendMentor/tree/09-ip-address-tracker-main)
     - Built an IP Address Tracker app with the IP Geolocation API for getting the user's location and LeafletJS library to generate a map showing the user’s location.
