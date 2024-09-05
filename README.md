@@ -13,7 +13,7 @@
 - 😄 My Pronouns are He/Him.
 - 🔭 See what I am [currently working on](#work-in-progress).
 - ⚡ My last project was [AspectMatic](https://www.figma.com/community/plugin/1297912439687792545/aspectmatic).
-- 💰 If you'd like, you can support me on [GitHub Sponsors](https://github.com/sponsors/Jemeni11/)
+- 💰 If you'd like, you can support me on [GitHub Sponsors](https://github.com/sponsors/Jemeni11/) or [Buy Me A Coffee](https://www.buymeacoffee.com/jemeni11).
 
 ### Languages and Tools:
 - **Languages** - HTML5, CSS3, JavaScript, TypeScript, Python3
