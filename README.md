@@ -12,7 +12,7 @@
 - 🔭 I am a Frontend Web Developer.
 - 😄 My Pronouns are He/Him.
 - 🔭 See what I am [currently working on](#work-in-progress).
-- ⚡ My last project was [AspectMatic](https://www.figma.com/community/plugin/1297912439687792545/aspectmatic).
+- ⚡ My last project was [CrossRename](https://pypi.org/project/CrossRename/).
 - 💰 If you'd like, you can support me on [GitHub Sponsors](https://github.com/sponsors/Jemeni11/) or [Buy Me A Coffee](https://www.buymeacoffee.com/jemeni11).
 
 ### Languages and Tools:
@@ -26,6 +26,10 @@
 
 ### Projects
 #### Completed Projects
+  - [CrossRename](https://pypi.org/project/CrossRename/) - [GitHub Repo](https://github.com/Jemeni11/CrossRename)
+
+    CrossRename is a tool that helps make your file names work perfectly with your computer. It doesn't matter if you use Linux, Windows, or both. CrossRename makes sure your file names follow your computer's rules, so everything runs smoothly.
+    
   - [AspectMatic](https://www.figma.com/community/plugin/1297912439687792545/aspectmatic) - [GitHub Repo](https://github.com/Jemeni11/AspectMatic) 
 
     AspectMatic is a Figma plugin that automates aspect ratio calculations for developers. I got tired of calculating the long way so I made a plugin.
@@ -144,14 +148,10 @@
 
   - Unnamed VSCode ePub reader extension
 
-##### Terminal
-
-  - [CrossRename](https://github.com/Jemeni11/CrossRename)
-
-    CrossRename is a tool that helps make your file names work perfectly with your computer. It doesn't matter if you use Linux, Windows, or both. CrossRename makes sure your file names follow your computer's rules, so everything runs smoothly.
-
 
 <!--
+##### Terminal
+
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/jemeni11)
 **Jemeni11/Jemeni11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
