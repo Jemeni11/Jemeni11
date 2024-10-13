@@ -6,6 +6,7 @@
 [![G Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jemenichinonso11@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-jemeni)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Jemeni11_)
+[![wakatime](https://wakatime.com/badge/user/9591263b-0088-4aba-95ef-56b0c55c8478.svg?style=for-the-badge)](https://wakatime.com/@9591263b-0088-4aba-95ef-56b0c55c8478)
 
 - 💬 I write JavaScript (ReactJS, NextJS, React Native) and Python.
 - 🌱 I’m currently learning NodeJS.
