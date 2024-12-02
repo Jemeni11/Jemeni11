@@ -27,7 +27,10 @@
 
 ### Projects
 #### Completed Projects
+
   - [CrossRename](https://pypi.org/project/CrossRename/) - [GitHub Repo](https://github.com/Jemeni11/CrossRename)
+
+    ![PyPI Downloads](https://static.pepy.tech/badge/crossrename)
 
     CrossRename is a tool that helps make your file names work perfectly with your computer. It doesn't matter if you use Linux, Windows, or both. CrossRename makes sure your file names follow your computer's rules, so everything runs smoothly.
     
@@ -35,7 +38,7 @@
 
     AspectMatic is a Figma plugin that automates aspect ratio calculations for developers. I got tired of calculating the long way so I made a plugin.
 
-    Built with HTML, CSS3, and Javascript/Typescript.
+    Built with [Create Figma Plugin](https://yuanqing.github.io/create-figma-plugin/), Preact, TypeScript, Prettier, and TailwindCSS.
     
 - [E-Commerce Shopping App](https://jemeni-react-redux-shopping-app.netlify.app/) - [GitHub Repo](https://github.com/Jemeni11/React-Redux-Shopping-App)
     - Built an e-commerce shopping app using React js, Redux (ToolKit), React Router, Vite, and data gotten from the FakeStoreApi.
@@ -43,7 +46,10 @@
 
 - [FicImage](https://pypi.org/project/FicImageScript/) - [GitHub Repo](https://github.com/Jemeni11/FicImage)
 
-    FicImage is an application designed to enhance the reading experience of [FicHub](https://fichub.net) epubs. With FicImage, users can easily add missing images to their FicHub epubs, bringing the stories to life with vibrant visuals. Built with Python3. 
+  ![PyPI Downloads](https://static.pepy.tech/badge/ficimagescript)
+
+  FicImage is an application designed to enhance the reading experience of [FicHub](https://fichub.net) epubs. With FicImage, users can easily add missing images to their FicHub epubs, bringing the stories to life with vibrant visuals. Built with Python3.
+
 - [Rest-Countries API App](https://jemeni-rest-countries.netlify.app/) - [GitHub Repo](https://github.com/Jemeni11/FrontendMentor/tree/11-rest-countries-api)
   - Built an app that consumes a REST API and displays a list of countries. 
   - Users can see all countries from the API on the homepage, search for a country using an input field, filter countries by region, click on a country to see more detailed information on a separate page, click through to the border countries on the detail page, and toggle the colour scheme between light and dark modes. 
@@ -91,7 +97,7 @@
 
 - [WiFi Password Extractor CLI](https://github.com/Jemeni11/WiFi-Password-Extractor-CLI)
     - A Python script that retrieves all saved Wi-Fi names and passwords.
-    - Currently only works on Windows OS (Linux support is a WIP). 
+    - Currently only works on Windows OS. 
 
 #### Work In Progress
 
@@ -111,11 +117,6 @@
 
     Building with React, NextJS, @ducanh2912/next-pwa, Rough Notation, Clerk Auth, and shadcn (TailwindCSS + Radix UI).
 
-  - [Introspectia](https://github.com/Jemeni11/Introspectia)
-    
-    A personal journaling web app.
-
-  - [Portfolio Website](https://github.com/Jemeni11/jemeni)
 
 ##### Mobile
 
@@ -128,12 +129,6 @@
   - [SnapQR](https://github.com/Jemeni11/SnapQR)
     
      Beyond Scanning - Remake, Share, and Explore. SnapQR is a QR code scanner and generator app for mobile devices. Building with React Native and Expo.
-
-  - [Intergalactic Encyclopedia](https://github.com/Jemeni11/intergalactic-encyclopedia)
-    
-    Intergalactic Encyclopedia is your ultimate guide to the Star Wars universe! This comprehensive application provides detailed information on planets, spaceships, vehicles, people, films, and species from a galaxy far, far away.
-
-    Building with React, React Native, Expo SDK, Typescript, Expo Router, Expo Google Fonts 
 
   - [Ebook reader](https://github.com/Jemeni11/Ebook-Reader)
   
@@ -149,6 +144,21 @@
 
   - Unnamed VSCode ePub reader extension
 
+#### Graveyard
+
+These projects are unlikely to be finished/updated any time soon
+
+  - [Intergalactic Encyclopedia](https://github.com/Jemeni11/intergalactic-encyclopedia)
+    
+    Intergalactic Encyclopedia is your ultimate guide to the Star Wars universe! This comprehensive application provides detailed information on planets, spaceships, vehicles, people, films, and species from a galaxy far, far away.
+
+    Building with React, React Native, Expo SDK, Typescript, Expo Router, Expo Google Fonts 
+
+  - [Introspectia](https://github.com/Jemeni11/Introspectia)
+    
+    A personal journaling web app.
+
+  - [Portfolio Website](https://github.com/Jemeni11/jemeni)
 
 <!--
 ##### Terminal
