@@ -30,7 +30,7 @@
 
   - [CrossRename](https://pypi.org/project/CrossRename/) - [GitHub Repo](https://github.com/Jemeni11/CrossRename)
 
-    ![PyPI Downloads](https://static.pepy.tech/badge/crossrename)
+    [![PyPI Downloads](https://static.pepy.tech/badge/crossrename)](https://pepy.tech/projects/CrossRename)
 
     CrossRename is a tool that helps make your file names work perfectly with your computer. It doesn't matter if you use Linux, Windows, or both. CrossRename makes sure your file names follow your computer's rules, so everything runs smoothly.
     
@@ -46,7 +46,7 @@
 
 - [FicImage](https://pypi.org/project/FicImageScript/) - [GitHub Repo](https://github.com/Jemeni11/FicImage)
 
-  ![PyPI Downloads](https://static.pepy.tech/badge/ficimagescript)
+  [![PyPI Downloads](https://static.pepy.tech/badge/ficimagescript)](https://pepy.tech/projects/FicImageScript)
 
   FicImage is an application designed to enhance the reading experience of [FicHub](https://fichub.net) epubs. With FicImage, users can easily add missing images to their FicHub epubs, bringing the stories to life with vibrant visuals. Built with Python3.
 
