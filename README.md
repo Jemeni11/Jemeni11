@@ -34,9 +34,9 @@
 
     CrossRename is a tool that helps make your file names work perfectly with your computer. It doesn't matter if you use Linux, Windows, or both. CrossRename makes sure your file names follow your computer's rules, so everything runs smoothly.
     
-  - [AspectMatic](https://www.figma.com/community/plugin/1297912439687792545/aspectmatic) - [GitHub Repo](https://github.com/Jemeni11/AspectMatic) 
+  - AspectMatic - [Figma Community](https://www.figma.com/community/plugin/1297912439687792545/aspectmatic) - [Figma GitHub Repo](https://github.com/Jemeni11/AspectMatic) 
 
-    AspectMatic is a Figma plugin that automates aspect ratio calculations for developers. I got tired of calculating the long way so I made a plugin.
+    AspectMatic is a Figma/Penpot plugin that automates aspect ratio calculations for developers. I got tired of calculating the long way so I made a plugin.
 
     Built with [Create Figma Plugin](https://yuanqing.github.io/create-figma-plugin/), Preact, TypeScript, Prettier, and TailwindCSS.
     
