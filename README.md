@@ -50,11 +50,15 @@
     - Built an e-commerce shopping app using React js, Redux (ToolKit), React Router, Vite, and data gotten from the FakeStoreApi.
     - This web app allows buyers to browse products by categories, add them to their cart, and checkout.
 
-- [FicImage](https://pypi.org/project/FicImageScript/) - [GitHub Repo](https://github.com/Jemeni11/FicImage)
+- FicImage
+
+  [PyPI Live Link](https://pypi.org/project/FicImageScript/) | [GitHub Repo](https://github.com/Jemeni11/FicImage)
 
   [![PyPI Downloads](https://static.pepy.tech/badge/ficimagescript)](https://pepy.tech/projects/FicImageScript)
 
-  FicImage is an application designed to enhance the reading experience of [FicHub](https://fichub.net) epubs. With FicImage, users can easily add missing images to their FicHub epubs, bringing the stories to life with vibrant visuals. Built with Python3.
+  FicImage is an application designed to enhance the reading experience of [FicHub](https://fichub.net) epubs. With FicImage, users can easily add missing images to their FicHub epubs, bringing the stories to life with vibrant visuals.
+
+  Built with Python3.
 
 - [Rest-Countries API App](https://jemeni-rest-countries.netlify.app/) - [GitHub Repo](https://github.com/Jemeni11/FrontendMentor/tree/11-rest-countries-api)
   - Built an app that consumes a REST API and displays a list of countries. 
