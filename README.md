@@ -28,13 +28,17 @@
 ### Projects
 #### Completed Projects
 
-  - [CrossRename](https://pypi.org/project/CrossRename/) - [GitHub Repo](https://github.com/Jemeni11/CrossRename)
+  - CrossRename
+  
+    [PyPI Live Link](https://pypi.org/project/CrossRename/) | [GitHub Repo](https://github.com/Jemeni11/CrossRename)
 
     [![PyPI Downloads](https://static.pepy.tech/badge/crossrename)](https://pepy.tech/projects/CrossRename)
 
     CrossRename is a tool that helps make your file names work perfectly with your computer. It doesn't matter if you use Linux, Windows, or both. CrossRename makes sure your file names follow your computer's rules, so everything runs smoothly.
     
-  - AspectMatic - [Figma Community](https://www.figma.com/community/plugin/1297912439687792545/aspectmatic) - [Figma GitHub Repo](https://github.com/Jemeni11/AspectMatic) - [Penpot Live Link](https://aspectmatic-penpot.netlify.app/) - [Penpot GitHub Repo](https://github.com/Jemeni11/AspectMatic-Penpot)
+  - AspectMatic
+
+    [Figma Community](https://www.figma.com/community/plugin/1297912439687792545/aspectmatic) | [Figma GitHub Repo](https://github.com/Jemeni11/AspectMatic) | [Penpot Live Link](https://aspectmatic-penpot.netlify.app/) | [Penpot GitHub Repo](https://github.com/Jemeni11/AspectMatic-Penpot)
 
     AspectMatic is a Figma/Penpot plugin that automates aspect ratio calculations for developers. I got tired of calculating the long way so I made a plugin.
 
