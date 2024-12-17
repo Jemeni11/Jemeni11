@@ -18,7 +18,7 @@
 
 ### Languages and Tools:
 - **Languages** - HTML5, CSS3, JavaScript, TypeScript, Python3
-- **Frameworks/Libraries/Toolkits** - React, NextJS, TailwindCSS, SASS/SCSS, React Native, Redux (Toolkit), React Router, Zustand
+- **Frameworks/Libraries/Toolkits** - React, NextJS, TailwindCSS, SASS/SCSS, React Native, Redux (Toolkit), React Router, Jotai, Zustand
 - **Tools** - Expo SDK, Vite, Clerk, Git, VS Code, PyCharm, Vercel, Netlify, GitHub, Firebase, Yarn, NPM, Chrome
 
 ### Articles
@@ -34,13 +34,15 @@
 
     CrossRename is a tool that helps make your file names work perfectly with your computer. It doesn't matter if you use Linux, Windows, or both. CrossRename makes sure your file names follow your computer's rules, so everything runs smoothly.
     
-  - AspectMatic - [Figma Community](https://www.figma.com/community/plugin/1297912439687792545/aspectmatic) - [Figma GitHub Repo](https://github.com/Jemeni11/AspectMatic) 
+  - AspectMatic - [Figma Community](https://www.figma.com/community/plugin/1297912439687792545/aspectmatic) - [Figma GitHub Repo](https://github.com/Jemeni11/AspectMatic) - [Penpot Live Link](https://aspectmatic-penpot.netlify.app/) - [Penpot GitHub Repo](https://github.com/Jemeni11/AspectMatic-Penpot)
 
     AspectMatic is a Figma/Penpot plugin that automates aspect ratio calculations for developers. I got tired of calculating the long way so I made a plugin.
 
-    Built with [Create Figma Plugin](https://yuanqing.github.io/create-figma-plugin/), Preact, TypeScript, Prettier, and TailwindCSS.
+    The Figma plugin was built with [Create Figma Plugin](https://yuanqing.github.io/create-figma-plugin/), Preact, TypeScript, Prettier, and TailwindCSS.
     
-- [E-Commerce Shopping App](https://jemeni-react-redux-shopping-app.netlify.app/) - [GitHub Repo](https://github.com/Jemeni11/React-Redux-Shopping-App)
+    The Penpot plugin was built with React, TypeScript, Prettier, and TailwindCSS.
+    
+- [The Shop!](https://jemeni-react-redux-shopping-app.netlify.app/) - [GitHub Repo](https://github.com/Jemeni11/React-Redux-Shopping-App)
     - Built an e-commerce shopping app using React js, Redux (ToolKit), React Router, Vite, and data gotten from the FakeStoreApi.
     - This web app allows buyers to browse products by categories, add them to their cart, and checkout.
 
@@ -54,6 +56,8 @@
   - Built an app that consumes a REST API and displays a list of countries. 
   - Users can see all countries from the API on the homepage, search for a country using an input field, filter countries by region, click on a country to see more detailed information on a separate page, click through to the border countries on the detail page, and toggle the colour scheme between light and dark modes. 
   - Built with a mobile-first workflow, HTML5 , CSS3, React JS, React Router, and Vite.
+ 
+
 - [ReactViteTS](https://github.com/Jemeni11/ReactViteTS)
   
   This is a vite template with the following installed:
