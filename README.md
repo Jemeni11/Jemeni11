@@ -32,8 +32,9 @@
     
     [PyPI Live Link](https://pypi.org/project/TerminalAlert/) | [GitHub Repo](https://github.com/Jemeni11/TerminalAlert)
 
+    <!--
     [![PyPI Downloads](https://static.pepy.tech/badge/terminalalert)](https://pepy.tech/projects/TerminalAlert)
-    
+    -->
     TerminalAlert is a Python CLI tool that ensures you never miss the completion of your terminal commands. Whether successful or not, it sends desktop notifications to keep you informed, allowing you to focus on other tasks while commands run in the background. Built with Python3.
 
   - CrossRename
@@ -46,7 +47,7 @@
     
   - AspectMatic
 
-    [Figma Community](https://www.figma.com/community/plugin/1297912439687792545/aspectmatic) | [Figma GitHub Repo](https://github.com/Jemeni11/AspectMatic) | [Penpot Live Link](https://aspectmatic-penpot.netlify.app/) | [Penpot GitHub Repo](https://github.com/Jemeni11/AspectMatic-Penpot)
+    [Figma Community](https://www.figma.com/community/plugin/1297912439687792545/aspectmatic) | [Figma GitHub Repo](https://github.com/Jemeni11/AspectMatic) | [Penpot Hub](https://penpot.app/penpothub/plugins/aspectmatic) | [Penpot GitHub Repo](https://github.com/Jemeni11/AspectMatic-Penpot)
 
     AspectMatic is a Figma/Penpot plugin that automates aspect ratio calculations for developers. I got tired of calculating the long way so I made a plugin.
 
