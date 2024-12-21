@@ -13,7 +13,7 @@
 - 🔭 I am a Frontend Web Developer.
 - 😄 My Pronouns are He/Him.
 - 🔭 See what I am [currently working on](#work-in-progress).
-- ⚡ My last project was [CrossRename](https://pypi.org/project/CrossRename/).
+- ⚡ My last project was [TerminalAlert](https://pypi.org/project/TerminalAlert/).
 - 💰 If you'd like, you can support me on [GitHub Sponsors](https://github.com/sponsors/Jemeni11/) or [Buy Me A Coffee](https://www.buymeacoffee.com/jemeni11).
 
 ### Languages and Tools:
@@ -27,6 +27,14 @@
 
 ### Projects
 #### Completed Projects
+
+  - TerminalAlert
+    
+    [PyPI Live Link](https://pypi.org/project/TerminalAlert/) | [GitHub Repo](https://github.com/Jemeni11/TerminalAlert)
+
+    [![PyPI Downloads](https://static.pepy.tech/badge/terminalalert)](https://pepy.tech/projects/TerminalAlert)
+    
+    TerminalAlert is a Python CLI tool that ensures you never miss the completion of your terminal commands. Whether successful or not, it sends desktop notifications to keep you informed, allowing you to focus on other tasks while commands run in the background. Built with Python3.
 
   - CrossRename
   
