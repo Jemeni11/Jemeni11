@@ -13,7 +13,7 @@
 - 🔭 I am a Frontend Web Developer.
 - 😄 My Pronouns are He/Him.
 - 🔭 See what I am [currently working on](#work-in-progress).
-- ⚡ My last project was [TerminalAlert](https://pypi.org/project/TerminalAlert/).
+- ⚡ My last project was [TalesTrove](https://github.com/Jemeni11/TalesTrove).
 - 💰 If you'd like, you can support me on [GitHub Sponsors](https://github.com/sponsors/Jemeni11/) or [Buy Me A Coffee](https://www.buymeacoffee.com/jemeni11).
 
 ### Languages and Tools:
@@ -27,6 +27,10 @@
 
 ### Projects
 #### Completed Projects
+
+  - [Tales Trove](https://github.com/Jemeni11/Tales-Trove)
+
+    TalesTrove is a browser extension that allows users to easily save links to their favorite fictional stories and series. Built with Plasmo, React, Typescript, and TailwindCSS.
 
   - TerminalAlert
     
@@ -157,10 +161,6 @@
     - This project inspired [this pull request](https://github.com/victorsoares96/epubjs-react-native/pull/73) 
     
 ##### Extensions
-
-  - [Tales Trove](https://github.com/Jemeni11/Tales-Trove)
-
-    TalesTrove is a browser extension that allows users to easily save links to their favorite fictional stories and series. Building with Plasmo.
 
   - Unnamed VSCode ePub reader extension
 
