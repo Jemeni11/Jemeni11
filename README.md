@@ -30,7 +30,7 @@
 
   - [Tales Trove](https://github.com/Jemeni11/Tales-Trove)
 
-    TalesTrove is a browser extension that allows users to easily save links to their favorite fictional stories and series. Built with Plasmo, React, Typescript, and TailwindCSS.
+     TalesTrove is a browser extension that allows users to easily save links to their favourite fictional stories and series. It supports FanFiction.net, Archive of Our Own, and several XenForo sites. It was built with Plasmo, React, Typescript, and TailwindCSS.
 
   - TerminalAlert
     
