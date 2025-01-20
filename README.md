@@ -28,15 +28,15 @@
 ### Projects
 #### Completed Projects
 
-  - [Tales Trove](https://github.com/Jemeni11/Tales-Trove)
+  - Tales Trove
 
-    [Firefox Browser Add-ons](https://addons.mozilla.org/en-US/firefox/addon/tales_trove/)
+    [Firefox Browser Add-ons](https://addons.mozilla.org/en-US/firefox/addon/tales_trove/) • [GitHub Repo](https://github.com/Jemeni11/Tales-Trove)
 
      TalesTrove is a browser extension that allows users to easily save links to their favourite fictional stories and series. It supports FanFiction.net, Archive of Our Own, and several XenForo sites. It was built with Plasmo, React, Typescript, and TailwindCSS.
 
   - TerminalAlert
     
-    [PyPI Live Link](https://pypi.org/project/TerminalAlert/) | [GitHub Repo](https://github.com/Jemeni11/TerminalAlert)
+    [PyPI Live Link](https://pypi.org/project/TerminalAlert/) • [GitHub Repo](https://github.com/Jemeni11/TerminalAlert)
 
     [![PyPI Downloads](https://static.pepy.tech/badge/terminalalert)](https://pepy.tech/projects/terminalalert)
 
@@ -44,7 +44,7 @@
 
   - CrossRename
   
-    [PyPI Live Link](https://pypi.org/project/CrossRename/) | [GitHub Repo](https://github.com/Jemeni11/CrossRename)
+    [PyPI Live Link](https://pypi.org/project/CrossRename/) • [GitHub Repo](https://github.com/Jemeni11/CrossRename)
 
     [![PyPI Downloads](https://static.pepy.tech/badge/crossrename)](https://pepy.tech/projects/CrossRename)
 
@@ -52,7 +52,7 @@
     
   - AspectMatic
 
-    [Figma Community](https://www.figma.com/community/plugin/1297912439687792545/aspectmatic) | [Figma GitHub Repo](https://github.com/Jemeni11/AspectMatic) | [Penpot Hub](https://penpot.app/penpothub/plugins/aspectmatic) | [Penpot GitHub Repo](https://github.com/Jemeni11/AspectMatic-Penpot)
+    [Figma Community](https://www.figma.com/community/plugin/1297912439687792545/aspectmatic) • [Figma GitHub Repo](https://github.com/Jemeni11/AspectMatic) • [Penpot Hub](https://penpot.app/penpothub/plugins/aspectmatic) • [Penpot GitHub Repo](https://github.com/Jemeni11/AspectMatic-Penpot)
 
     AspectMatic is a Figma/Penpot plugin that automates aspect ratio calculations for developers. I got tired of calculating the long way so I made a plugin.
 
@@ -66,7 +66,7 @@
 
 - FicImage
 
-  [PyPI Live Link](https://pypi.org/project/FicImageScript/) | [GitHub Repo](https://github.com/Jemeni11/FicImage)
+  [PyPI Live Link](https://pypi.org/project/FicImageScript/) • [GitHub Repo](https://github.com/Jemeni11/FicImage)
 
   [![PyPI Downloads](https://static.pepy.tech/badge/ficimagescript)](https://pepy.tech/projects/FicImageScript)
 
