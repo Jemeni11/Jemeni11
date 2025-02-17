@@ -83,13 +83,13 @@
 - [ReactViteTS](https://github.com/Jemeni11/ReactViteTS)
   
   This is a vite template with the following installed:
-  - Vite 5.4.1
-  - React 18.3.1
-  - Typescript 5.5.3
-  - TailwindCSS 3.4.10
-  - Prettier 3.3.3
-  - prettier-plugin-tailwind 0.6.6
-  - ESLint 9.9.0
+  - Vite 6.1.0
+  - React 19.0.0
+  - Typescript 5.7.2
+  - TailwindCSS 4.0.6
+  - Prettier 3.5.1
+  - prettier-plugin-tailwind 0.6.11
+  - ESLint 9.19.0
 
 - [IP Address Tracker App](https://jemeni-ip-tracker.netlify.app/) - [GitHub Repo](https://github.com/Jemeni11/FrontendMentor/tree/09-ip-address-tracker-main)
     - Built an IP Address Tracker app with the IP Geolocation API for getting the user's location and LeafletJS library to generate a map showing the user’s location.
