@@ -30,7 +30,7 @@
 
   - Tales Trove
 
-    [Firefox Browser Add-ons](https://addons.mozilla.org/en-US/firefox/addon/tales_trove/) • [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/talestrove/lahledcnahkanmigdbaglgagcdleopjd) • [GitHub Repo](https://github.com/Jemeni11/TalesTrove)
+    [Firefox Browser Add-ons](https://addons.mozilla.org/en-US/firefox/addon/tales_trove/) • [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/talestrove/lahledcnahkanmigdbaglgagcdleopjd) • [Chrome Web Store](https://chromewebstore.google.com/detail/cjealedijmcdnkkfpgmobhaohjljlojg) • [GitHub Repo](https://github.com/Jemeni11/TalesTrove)
 
      TalesTrove is a browser extension that allows users to easily save links to their favourite fictional stories and series. It supports FanFiction.net, Archive of Our Own, and several XenForo sites. It was built with Plasmo, React, Typescript, and TailwindCSS.
 
