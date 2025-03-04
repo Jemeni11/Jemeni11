@@ -161,6 +161,10 @@
 
     Turn your text into stylish WhatsApp status images. Customize fonts, colors, and layouts, bypassing character limits for more expressive updates.
 
+   - Unread
+
+     With Unread, you can mark important messages so they don’t get lost in the chat flood. If a recipient reads but forgets to reply, Unread makes sure they don’t forget for long, sending gentle (or not-so-gentle) reminders until they respond. No more missed responses. Just better conversations.
+
 ##### Extensions/Plugins
 
   - FontCache
