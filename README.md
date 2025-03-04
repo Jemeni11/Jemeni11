@@ -143,6 +143,9 @@
 
     Building with React, NextJS, @ducanh2912/next-pwa, Rough Notation, Clerk Auth, and shadcn (TailwindCSS + Radix UI).
 
+  - PencilFX 
+
+    A WebAssembly-powered tool that transforms images into pencil art. Built with Python and compiled to WASM, this project lets users upload an image in a React frontend and get a sketch-like version instantly. Python was used because the script already existed, and this project is primarily for learning WASM.
 
 ##### Mobile
 
@@ -161,10 +164,53 @@
     - A mobile app for reading ePUBs and PDFs
     - Building with Expo, React Native and [@epubjs-react-native](https://github.com/victorsoares96/epubjs-react-native)
     - This project inspired [this pull request](https://github.com/victorsoares96/epubjs-react-native/pull/73) 
-    
-##### Extensions
 
-  - Unnamed VSCode ePub reader extension
+  -  TextMotion
+  
+     Create videos and GIFs with a dynamic text effect. Just enter your text, choose a style, and generate an animation.
+    
+  - SoloShot
+
+    A camera that recognizes your face and automatically blurs others in photos.
+
+##### Extensions/Plugins
+
+  - FontCache
+
+    FontCache is your go-to browser extension for collecting and organizing fonts from any webpage. Easily discover fonts in use, pick your favorites, and save them with site and date details. 
+
+  - ChartFlow
+
+    A Figma extension for generating charts with customizable options. Easily create and edit visual data representations directly in Figma.
+  
+  - StayPut 
+
+    StayPut remembers where you left off on a page and automatically scrolls back to that spot when you return. Just select an element, and it saves your position for next time. 
+
+  - AdaptImage
+
+    A Figma extension that generates optimized images for different screen sizes and frameworks. Select an image, and AdaptImage will:
+
+      - Generate multiple sizes.
+      - Create proper <picture> tags with <source> elements.
+      - Support framework-specific image tags (e.g., Next.js <Image>).
+      - Convert to different formats like AVIF and WebP.
+      - (Optional) Modify file names for better organization.
+      - Future feature: If your design includes both mobile and desktop views, you can select two images to generate optimized assets for each.
+
+  - EpubView
+
+    A VSCode extension for reading EPUB files directly in your editor.
+
+  - FicRadar
+
+    FicRadar is a browser extension that collects fanfiction-related links from a specific user's interactions—like forum posts and comments—without storing the actual content of those posts. It only gathers the URLs of the works they engage with and counts how often each link appears. This helps you discover stories they interact with the most, making it easier to find new reads from sources you trust.
+
+##### CLI
+
+  - PhotoLean
+
+    Automatically scans your OS Pictures directory and minimizes image file sizes to save space. Runs on all images in the folder.
 
 #### Graveyard
 
