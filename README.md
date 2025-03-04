@@ -147,6 +147,10 @@
 
     A WebAssembly-powered tool that transforms images into pencil art. Built with Python and compiled to WASM, this project lets users upload an image in a React frontend and get a sketch-like version instantly. Python was used because the script already existed, and this project is primarily for learning WASM.
 
+  - Unfoldly
+
+    A link shortener that also generates AI-powered OG images. Unfoldly takes a URL, extracts metadata and the site’s favicon, and then creates a custom preview image. The shortened link redirects to the original URL with a visually enhanced share preview. 
+
 ##### Mobile
 
   - [StatusSnip](https://github.com/Jemeni11/StatusSnip)
@@ -172,6 +176,10 @@
   - SoloShot
 
     A camera that recognizes your face and automatically blurs others in photos.
+
+  - StatusCanvas 
+
+    Turn your text into stylish WhatsApp status images. Customize fonts, colors, and layouts, bypassing character limits for more expressive updates.
 
 ##### Extensions/Plugins
 
