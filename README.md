@@ -129,20 +129,6 @@
 
 ##### Web
 
-  - [AuthorCraft](https://author-craft.vercel.app/) - [GitHub Repo](https://github.com/Jemeni11/AuthorCraft)
-
-    AuthorCraft empowers writers of all backgrounds to harness their creativity, providing a user-friendly and intuitive platform for crafting stories, novels, and ebooks. Whether you're an aspiring novelist, a seasoned author, or a student, our robust toolkit is designed to inspire and support your writing endeavours.
-
-    Building with React, NextJS, Hanko Auth, Supabase Database, and shadcn (TailwindCSS + Radix UI).
-
-    While working on this project, I submitted a [pull request to the Hanko Docs repository](https://github.com/teamhanko/docs/pull/19), and it got merged.
-
-  - [Connectify](https://connectify-jemeni.vercel.app) - [GitHub Repo](https://github.com/Jemeni11/Connectify)
-    
-    The NextJS-powered PWA for effortless contact management.
-
-    Building with React, NextJS, @ducanh2912/next-pwa, Rough Notation, Clerk Auth, and shadcn (TailwindCSS + Radix UI).
-
   - PencilFX 
 
     A WebAssembly-powered tool that transforms images into pencil art. Built with Python and compiled to WASM, this project lets users upload an image in a React frontend and get a sketch-like version instantly. Python was used because the script already existed, and this project is primarily for learning WASM.
@@ -162,12 +148,6 @@
   - [SnapQR](https://github.com/Jemeni11/SnapQR)
     
      Beyond Scanning - Remake, Share, and Explore. SnapQR is a QR code scanner and generator app for mobile devices. Building with React Native and Expo.
-
-  - [Ebook reader](https://github.com/Jemeni11/Ebook-Reader)
-  
-    - A mobile app for reading ePUBs and PDFs
-    - Building with Expo, React Native and [@epubjs-react-native](https://github.com/victorsoares96/epubjs-react-native)
-    - This project inspired [this pull request](https://github.com/victorsoares96/epubjs-react-native/pull/73) 
 
   -  TextMotion
   
@@ -223,6 +203,26 @@
 #### Graveyard
 
 These projects are unlikely to be finished/updated any time soon
+
+  - [Ebook reader](https://github.com/Jemeni11/Ebook-Reader)
+  
+    - A mobile app for reading ePUBs and PDFs
+    - Building with Expo, React Native and [@epubjs-react-native](https://github.com/victorsoares96/epubjs-react-native)
+    - This project inspired [this pull request](https://github.com/victorsoares96/epubjs-react-native/pull/73) 
+
+  - [AuthorCraft](https://author-craft.vercel.app/) - [GitHub Repo](https://github.com/Jemeni11/AuthorCraft)
+
+    AuthorCraft empowers writers of all backgrounds to harness their creativity, providing a user-friendly and intuitive platform for crafting stories, novels, and ebooks. Whether you're an aspiring novelist, a seasoned author, or a student, our robust toolkit is designed to inspire and support your writing endeavours.
+
+    Building with React, NextJS, Hanko Auth, Supabase Database, and shadcn (TailwindCSS + Radix UI).
+
+    While working on this project, I submitted a [pull request to the Hanko Docs repository](https://github.com/teamhanko/docs/pull/19), and it got merged.
+
+  - [Connectify](https://connectify-jemeni.vercel.app) - [GitHub Repo](https://github.com/Jemeni11/Connectify)
+    
+    The NextJS-powered PWA for effortless contact management.
+
+    Building with React, NextJS, @ducanh2912/next-pwa, Rough Notation, Clerk Auth, and shadcn (TailwindCSS + Radix UI).
 
   - [Intergalactic Encyclopedia](https://github.com/Jemeni11/intergalactic-encyclopedia)
     
