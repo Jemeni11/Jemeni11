@@ -184,8 +184,8 @@
     A Figma extension that generates optimized images for different screen sizes and frameworks. Select an image, and AdaptImage will:
 
       - Generate multiple sizes.
-      - Create proper <picture> tags with <source> elements.
-      - Support framework-specific image tags (e.g., Next.js <Image>).
+      - Create proper `<picture>` tags with `<source>` elements.
+      - Support framework-specific image tags (e.g., Next.js `<Image>`).
       - Convert to different formats like AVIF and WebP.
       - (Optional) Modify file names for better organization.
       - Future feature: If your design includes both mobile and desktop views, you can select two images to generate optimized assets for each.
