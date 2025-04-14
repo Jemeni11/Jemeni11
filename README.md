@@ -54,15 +54,23 @@
 
     [Figma Community](https://www.figma.com/community/plugin/1297912439687792545/aspectmatic) • [Figma GitHub Repo](https://github.com/Jemeni11/AspectMatic) • [Penpot Hub](https://penpot.app/penpothub/plugins/aspectmatic) • [Penpot GitHub Repo](https://github.com/Jemeni11/AspectMatic-Penpot)
 
-    AspectMatic is a Figma/Penpot plugin that automates aspect ratio calculations for developers. I got tired of calculating the long way so I made a plugin.
+    AspectMatic is a Figma/Penpot plugin that automates aspect ratio calculations for developers. I got tired of calculating the long way, so I made a plugin.
 
     The Figma plugin was built with [Create Figma Plugin](https://yuanqing.github.io/create-figma-plugin/), Preact, TypeScript, Prettier, and TailwindCSS.
     
     The Penpot plugin was built with React, TypeScript, Prettier, and TailwindCSS.
+
+-  GeoTrace 
+
+    [Live Link](https://jemeni-ip-tracker.netlify.app/) • [GitHub Repo](https://github.com/Jemeni11/FrontendMentor/tree/09-ip-address-tracker-main)
     
-- [The Shop!](https://jemeni-react-redux-shopping-app.netlify.app/) - [GitHub Repo](https://github.com/Jemeni11/React-Redux-Shopping-App)
-    - Built an e-commerce shopping app using React js, Redux (ToolKit), React Router, Vite, and data gotten from the FakeStoreApi.
-    - This web app allows buyers to browse products by categories, add them to their cart, and checkout.
+    A React-based app that uses the IP Geolocation API and LeafletJS to display your IP address and pinpoint your location on an interactive map.
+    
+- The Shop!
+
+  [Live link](https://jemeni-react-redux-shopping-app.netlify.app/) • [GitHub Repo](https://github.com/Jemeni11/React-Redux-Shopping-App)
+  
+  A React-based e-commerce web app that lets users browse products, add items to a cart, and checkout, using Redux Toolkit, React Router, and FakeStoreApi data.
 
 - FicImage
 
@@ -74,10 +82,11 @@
 
   Built with Python3.
 
-- [Rest-Countries API App](https://jemeni-rest-countries.netlify.app/) - [GitHub Repo](https://github.com/Jemeni11/FrontendMentor/tree/11-rest-countries-api)
-  - Built an app that consumes a REST API and displays a list of countries. 
-  - Users can see all countries from the API on the homepage, search for a country using an input field, filter countries by region, click on a country to see more detailed information on a separate page, click through to the border countries on the detail page, and toggle the colour scheme between light and dark modes. 
-  - Built with a mobile-first workflow, HTML5 , CSS3, React JS, React Router, and Vite.
+- FlagFinder 
+
+  [Live Link](https://jemeni-rest-countries.netlify.app/) • [GitHub Repo](https://github.com/Jemeni11/FrontendMentor/tree/11-rest-countries-api)
+  
+  A mobile-first React app that displays countries from the REST Countries API, with search, region filtering, detailed views, border navigation, and a light/dark mode toggle.
  
 
 - [ReactViteTS](https://github.com/Jemeni11/ReactViteTS)
@@ -91,9 +100,6 @@
   - prettier-plugin-tailwind 0.6.11
   - ESLint 9.19.0
 
-- [IP Address Tracker App](https://jemeni-ip-tracker.netlify.app/) - [GitHub Repo](https://github.com/Jemeni11/FrontendMentor/tree/09-ip-address-tracker-main)
-    - Built an IP Address Tracker app with the IP Geolocation API for getting the user's location and LeafletJS library to generate a map showing the user’s location.
-  - Built with HTML5, CSS3, and React JS.
 
 - [Journal Template](https://github.com/Jemeni11/Python-Scripts/tree/master/Journal%20Template)
   
@@ -107,14 +113,17 @@
   - Built with CRXJS, Vite, and Typescript.
   - The extension was tested on Chrome, Edge, Brave, and Opera.
 
-- [Tip Calculator Web App](https://jemeni-tip-calculator.netlify.app/) - [GitHub Repo](https://github.com/Jemeni11/FrontendMentor/tree/06-tip-calculator-app-main)
+- Splitter
+
+  [Live Link](https://jemeni-tip-calculator.netlify.app/) • [GitHub Repo](https://github.com/Jemeni11/FrontendMentor/tree/06-tip-calculator-app-main)
   
-    - Built a tip calculator app that helps you calculate the tip and split the total bill between friends!
-    - Built with HTML5, CSS3, and JavaScript.
+  A sleek JavaScript tip calculator that quickly computes tips and splits bills among friends with ease.
 
-- [Tip Calculator Mobile App - Splitter](https://expo.dev/@jemeni11/tip-calculator) - [GitHub Repo](https://github.com/Jemeni11/Tip-Splitter-Mobile-App)
+- Splitter Mobile App
 
-  - Built a mobile app version of the Tip Calculator Web App with React Native and Expo
+  [Expo Link](https://expo.dev/@jemeni11/tip-calculator) • [GitHub Repo](https://github.com/Jemeni11/Tip-Splitter-Mobile-App)
+
+  Built a mobile app version of Splitter with React Native and Expo
 
 - [ePub File Viewer](https://github.com/Jemeni11/ePub-File-Viewer)
     - An application that lets you explore the contents of an ePub file.
