@@ -138,6 +138,12 @@
 
 ##### Web
 
+  - Gradie
+
+    [Github Repo](https://github.com/Jemeni11/FicRadar)
+
+    Gradie is a design tool that extracts the most prominent colours from an image and turns them into a smooth, beautiful gradient.
+
   - PencilFX 
 
     A WebAssembly-powered tool that transforms images into pencil art. Built with Python and compiled to WASM, this project lets users upload an image in a React frontend and get a sketch-like version instantly. Python was used because the script already existed, and this project is primarily for learning WASM.
@@ -195,7 +201,7 @@
       - Generate multiple sizes.
       - Create proper `<picture>` tags with `<source>` elements.
       - Support framework-specific image tags (e.g., Next.js `<Image>`).
-      - Convert to different formats like AVIF and WebP.
+      - Convert to different formats like AVIF and Webp.
       - (Optional) Modify file names for better organization.
       - Future feature: If your design includes both mobile and desktop views, you can select two images to generate optimized assets for each.
 
@@ -205,17 +211,21 @@
 
   - FicRadar
 
-    FicRadar is a browser extension that collects fanfiction-related links from a specific user's interactions—like forum posts and comments—without storing the actual content of those posts. It only gathers the URLs of the works they engage with and counts how often each link appears. This helps you discover stories they interact with the most, making it easier to find new reads from sources you trust.
+    [Github Repo](https://github.com/Jemeni11/FicRadar)
+
+    FicRadar is a browser extension that collects fanfiction-related links from a specific user's interactions (forum posts and comments) without storing the actual content of those posts. It only gathers the URLS of the works they engage with and counts how often each link appears. This helps you discover stories they interact with the most, making it easier to find new reads from sources you trust.
 
 ##### CLI
 
   - PhotoLean
 
-    Automatically scans your OS Pictures directory and minimizes image file sizes to save space. Runs on all images in the folder.
+    [Github Repo](https://github.com/Jemeni11/PhotoLean)
+
+    PhotoLean is a command-line tool designed to optimize image file sizes and save disk space.
 
 #### Graveyard
 
-These projects are unlikely to be finished/updated any time soon
+These projects are unlikely to be finished/updated anytime soon
 
   - [Ebook reader](https://github.com/Jemeni11/Ebook-Reader)
   
