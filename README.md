@@ -62,7 +62,7 @@
 
 -  GeoTrace 
 
-    [Live Link](https://jemeni-ip-tracker.netlify.app/) • [GitHub Repo](https://github.com/Jemeni11/FrontendMentor/tree/09-ip-address-tracker-main)
+    [Live Link](https://jemeni-geotrace.netlify.app/) • [GitHub Repo](https://github.com/Jemeni11/GeoTrace)
     
     A React-based app that uses the IP Geolocation API and LeafletJS to display your IP address and pinpoint your location on an interactive map.
     
