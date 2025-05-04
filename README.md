@@ -8,8 +8,8 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Jemeni11_)
 [![wakatime](https://wakatime.com/badge/user/9591263b-0088-4aba-95ef-56b0c55c8478.svg?style=for-the-badge)](https://wakatime.com/@9591263b-0088-4aba-95ef-56b0c55c8478)
 
-- 💬 I write JavaScript (ReactJS, NextJS, React Native) and Python.
-- 🌱 I’m currently learning NodeJS.
+- 💬 I write JavaScript (React.js, Next.js, React Native) and Python.
+- 🌱 I’m currently learning ... well, everything really. Eventually.
 - 🔭 I am a Frontend Web Developer.
 - 😄 My Pronouns are He/Him.
 - 🔭 See what I am [currently working on](#work-in-progress).
@@ -18,7 +18,7 @@
 
 ### Languages and Tools:
 - **Languages** - HTML5, CSS3, JavaScript, TypeScript, Python3
-- **Frameworks/Libraries/Toolkits** - React, NextJS, TailwindCSS, SASS/SCSS, React Native, Redux (Toolkit), React Router, Jotai, Zustand
+- **Frameworks/Libraries/Toolkits** - React, NextJS, TailwindCSS, SASS/SCSS, React Native, Jotai, Zustand, Redux (Toolkit), React Router
 - **Tools** - Expo SDK, Vite, Clerk, Git, VS Code, PyCharm, Vercel, Netlify, GitHub, Firebase, Yarn, NPM, Chrome
 
 ### Articles
@@ -32,7 +32,7 @@
 
     [Firefox Browser Add-ons](https://addons.mozilla.org/en-US/firefox/addon/tales_trove/) • [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/talestrove/lahledcnahkanmigdbaglgagcdleopjd) • [Chrome Web Store](https://chromewebstore.google.com/detail/cjealedijmcdnkkfpgmobhaohjljlojg) • [GitHub Repo](https://github.com/Jemeni11/TalesTrove)
 
-     TalesTrove is a browser extension that allows users to easily save links to their favourite fictional stories and series. It supports FanFiction.net, Archive of Our Own, and several XenForo sites. It was built with Plasmo, React, Typescript, and TailwindCSS.
+     TalesTrove is a browser extension that allows users to easily save links to their favourite fictional stories and series. It supports FanFiction.net, Archive of Our Own, and several XenForo sites. It was built with Plasmo, React, TypeScript, and Tailwind.
 
   - TerminalAlert
     
@@ -40,7 +40,7 @@
 
     [![PyPI Downloads](https://static.pepy.tech/badge/terminalalert)](https://pepy.tech/projects/terminalalert)
 
-    TerminalAlert is a Python CLI tool that ensures you never miss the completion of your terminal commands. Whether successful or not, it sends desktop notifications to keep you informed, allowing you to focus on other tasks while commands run in the background. Built with Python3.
+    TerminalAlert is a Python CLI tool that ensures you never miss the completion of your terminal commands. Whether successful or not, it sends desktop notifications to keep you informed, allowing you to focus on other tasks while commands run in the background. Built with Python 3.
 
   - CrossRename
   
@@ -56,15 +56,15 @@
 
     AspectMatic is a Figma/Penpot plugin that automates aspect ratio calculations for developers. I got tired of calculating the long way, so I made a plugin.
 
-    The Figma plugin was built with [Create Figma Plugin](https://yuanqing.github.io/create-figma-plugin/), Preact, TypeScript, Prettier, and TailwindCSS.
+    The Figma plugin was built with [Create Figma Plugin](https://yuanqing.github.io/create-figma-plugin/), Preact, TypeScript, Prettier, and Tailwind.
     
-    The Penpot plugin was built with React, TypeScript, Prettier, and TailwindCSS.
+    The Penpot plugin was built with React, TypeScript, Prettier, and Tailwind.
 
 -  GeoTrace 
 
     [Live Link](https://jemeni-geotrace.netlify.app/) • [GitHub Repo](https://github.com/Jemeni11/GeoTrace)
     
-    A React-based app that uses the IP Geolocation API and LeafletJS to display your IP address and pinpoint your location on an interactive map.
+    A React-based app that uses the IP Geolocation API and Leaflet.js to display your IP address and pinpoint your location on an interactive map.
     
 - The Shop!
 
@@ -78,9 +78,9 @@
 
   [![PyPI Downloads](https://static.pepy.tech/badge/ficimagescript)](https://pepy.tech/projects/FicImageScript)
 
-  FicImage is an application designed to enhance the reading experience of [FicHub](https://fichub.net) epubs. With FicImage, users can easily add missing images to their FicHub epubs, bringing the stories to life with vibrant visuals.
+  FicImage is an application designed to enhance the reading experience of [FicHub](https://fichub.net) EPUBS. With FicImage, users can easily add missing images to their FicHub epubs, bringing the stories to life with vibrant visuals.
 
-  Built with Python3.
+  Built with Python.
 
 - FlagFinder 
 
@@ -95,7 +95,7 @@
   - Vite 6.1.0
   - React 19.0.0
   - Typescript 5.7.2
-  - TailwindCSS 4.0.6
+  - Tailwind 4.0.6
   - Prettier 3.5.1
   - prettier-plugin-tailwind 0.6.11
   - ESLint 9.19.0
@@ -104,13 +104,13 @@
 - [Journal Template](https://github.com/Jemeni11/Python-Scripts/tree/master/Journal%20Template)
   
   - Developed a Python script to automate the process of journaling.
-  - Created a user-friendly interface within the script to input a customized date or utilize the current date for journal entry initiation.
+  - Created a user-friendly interface within the script to input a customised date or utilise the current date for journal entry initiation.
   - Implemented automatic document creation with a well-structured nomenclature: "Week 01 of the Year 2023 (1.1 - 8.1).docx".
 
 - [Chromium-Based Browser Extension Template](https://github.com/Jemeni11/Chrome-Extension-CRXJS-Vite-TS-Template)
 
   - Developed an extension template tailored for Chromium-based browsers.
-  - Built with CRXJS, Vite, and Typescript.
+  - Built with CRXJS, Vite, and TypeScript.
   - The extension was tested on Chrome, Edge, Brave, and Opera.
 
 - Splitter
@@ -140,7 +140,7 @@
 
   - Gradie
 
-    [Github Repo](https://github.com/Jemeni11/FicRadar)
+    [Github Repo](https://github.com/Jemeni11/Gradie)
 
     Gradie is a design tool that extracts the most prominent colours from an image and turns them into a smooth, beautiful gradient.
 
@@ -166,25 +166,25 @@
 
   -  TextMotion
   
-     Create videos and GIFs with a dynamic text effect. Just enter your text, choose a style, and generate an animation.
+     Create videos and GIFS with a dynamic text effect. Just enter your text, choose a style, and generate an animation.
     
   - SoloShot
 
-    A camera that recognizes your face and automatically blurs others in photos.
+    A camera that recognises your face and automatically blurs others in photos.
 
   - StatusCanvas 
 
-    Turn your text into stylish WhatsApp status images. Customize fonts, colors, and layouts, bypassing character limits for more expressive updates.
+    Turn your text into stylish WhatsApp status images: Customise fonts, colours, and layouts, bypassing character limits for more expressive updates.
 
    - Unread
 
-     With Unread, you can mark important messages so they don’t get lost in the chat flood. If a recipient reads but forgets to reply, Unread makes sure they don’t forget for long, sending gentle (or not-so-gentle) reminders until they respond. No more missed responses. Just better conversations.
+     With Unread, you can mark important messages so they don’t get lost in the chat flood. If a recipient reads but forgets to reply, Unread ensures they don’t forget for long, sending gentle (or not-so-gentle) reminders until they respond. No more missed responses. Just better conversations.
 
 ##### Extensions/Plugins
 
   - FontCache
 
-    FontCache is your go-to browser extension for collecting and organizing fonts from any webpage. Easily discover fonts in use, pick your favorites, and save them with site and date details. 
+    FontCache is your go-to browser extension for collecting and organising fonts from any webpage. Easily discover fonts in use, pick your favourites, and save them with site and date details. 
 
   - ChartFlow
 
@@ -196,14 +196,14 @@
 
   - AdaptImage
 
-    A Figma extension that generates optimized images for different screen sizes and frameworks. Select an image, and AdaptImage will:
+    A Figma extension that generates optimised images for different screen sizes and frameworks. Select an image, and AdaptImage will:
 
       - Generate multiple sizes.
       - Create proper `<picture>` tags with `<source>` elements.
       - Support framework-specific image tags (e.g., Next.js `<Image>`).
       - Convert to different formats like AVIF and Webp.
-      - (Optional) Modify file names for better organization.
-      - Future feature: If your design includes both mobile and desktop views, you can select two images to generate optimized assets for each.
+      - (Optional) Modify file names for better organisation.
+      - Future feature: If your design includes both mobile and desktop views, you can select two images to generate optimised assets for each.
 
   - EpubView
 
@@ -221,7 +221,7 @@
 
     [Github Repo](https://github.com/Jemeni11/PhotoLean)
 
-    PhotoLean is a command-line tool designed to optimize image file sizes and save disk space.
+    PhotoLean is a command-line tool designed to optimise image file sizes and save disk space.
 
 #### Graveyard
 
@@ -229,7 +229,7 @@ These projects are unlikely to be finished/updated anytime soon
 
   - [Ebook reader](https://github.com/Jemeni11/Ebook-Reader)
   
-    - A mobile app for reading ePUBs and PDFs
+    - A mobile app for reading ePUBs and PDFS
     - Building with Expo, React Native and [@epubjs-react-native](https://github.com/victorsoares96/epubjs-react-native)
     - This project inspired [this pull request](https://github.com/victorsoares96/epubjs-react-native/pull/73) 
 
@@ -237,7 +237,7 @@ These projects are unlikely to be finished/updated anytime soon
 
     AuthorCraft empowers writers of all backgrounds to harness their creativity, providing a user-friendly and intuitive platform for crafting stories, novels, and ebooks. Whether you're an aspiring novelist, a seasoned author, or a student, our robust toolkit is designed to inspire and support your writing endeavours.
 
-    Building with React, NextJS, Hanko Auth, Supabase Database, and shadcn (TailwindCSS + Radix UI).
+    Building with React, Next.js, Hanko Auth, Supabase Database, and shadcn (Tailwind + Radix UI).
 
     While working on this project, I submitted a [pull request to the Hanko Docs repository](https://github.com/teamhanko/docs/pull/19), and it got merged.
 
