@@ -140,7 +140,7 @@
 
   - Gradie
 
-    [Github Repo](https://github.com/Jemeni11/Gradie)
+    [Live Link](https://gradie-jemeni.vercel.app/) • [Github Repo](https://github.com/Jemeni11/Gradie)
 
     Gradie is a design tool that extracts the most prominent colours from an image and turns them into a smooth, beautiful gradient.
 
