@@ -23,10 +23,17 @@
 
 ### Articles
 - Boost Your Productivity with Shell Commands: A beginner's guide to creating aliases and functions - [Hashnode](https://jemeni11.hashnode.dev/boost-your-productivity-with-shell-commands) • [Dev.to](https://dev.to/jemeni11/boost-your-productivity-with-shell-commands-a-beginners-guide-to-creating-aliases-and-functions-255e)
+- Why Gradie's colour switcher does two things at once (and why that's not a bug) - [Hashnode](https://jemeni11.hashnode.dev/gradie-notes-1)
 
 
 ### Projects
 #### Completed Projects
+
+  - WorkQuest
+
+    [Live Link](https://work-quest.vercel.app/)
+
+    WorkQuest is an interactive, web-based SIWES application designed to make a strong impression on potential employers. Instead of a traditional document, this project presents the application in a structured, engaging format.
 
   - Tales Trove
 
