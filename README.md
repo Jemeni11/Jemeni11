@@ -29,6 +29,18 @@
 ### Projects
 #### Completed Projects
 
+  - Gradie
+
+    [Live Link](https://gradie-jemeni.vercel.app/) • [Github Repo](https://github.com/Jemeni11/Gradie)
+
+    Gradie is a design tool that extracts the most prominent colours from an image and turns them into a smooth, beautiful gradient.
+
+  - FicRadar
+
+    [Github Repo](https://github.com/Jemeni11/FicRadar)
+
+    FicRadar is a browser extension that collects fanfiction-related links from a specific user's interactions (forum posts and comments) without storing the actual content of those posts. It only gathers the URLS of the works they engage with and counts how often each link appears. This helps you discover stories they interact with the most, making it easier to find new reads from sources you trust.
+
   - WorkQuest
 
     [Live Link](https://work-quest.vercel.app/)
@@ -145,12 +157,6 @@
 
 ##### Web
 
-  - Gradie
-
-    [Live Link](https://gradie-jemeni.vercel.app/) • [Github Repo](https://github.com/Jemeni11/Gradie)
-
-    Gradie is a design tool that extracts the most prominent colours from an image and turns them into a smooth, beautiful gradient.
-
   - PencilFX 
 
     A WebAssembly-powered tool that transforms images into pencil art. Built with Python and compiled to WASM, this project lets users upload an image in a React frontend and get a sketch-like version instantly. Python was used because the script already existed, and this project is primarily for learning WASM.
@@ -215,12 +221,6 @@
   - EpubView
 
     A VSCode extension for reading EPUB files directly in your editor.
-
-  - FicRadar
-
-    [Github Repo](https://github.com/Jemeni11/FicRadar)
-
-    FicRadar is a browser extension that collects fanfiction-related links from a specific user's interactions (forum posts and comments) without storing the actual content of those posts. It only gathers the URLS of the works they engage with and counts how often each link appears. This helps you discover stories they interact with the most, making it easier to find new reads from sources you trust.
 
 ##### CLI
 
