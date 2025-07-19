@@ -13,7 +13,7 @@
 - 🔭 I am a Frontend Web Developer.
 - 😄 My Pronouns are He/Him.
 - 🔭 See what I am [currently working on](#work-in-progress).
-- ⚡ My last project was [TalesTrove](https://github.com/Jemeni11/TalesTrove).
+- ⚡ My last project was [Gradie](https://gradie-jemeni.vercel.app/) • [FicRadar](https://github.com/Jemeni11/FicRadar).
 - 💰 If you'd like, you can support me on [GitHub Sponsors](https://github.com/sponsors/Jemeni11/) or [Buy Me A Coffee](https://www.buymeacoffee.com/jemeni11).
 
 ### Languages and Tools:
@@ -37,7 +37,7 @@
 
   - FicRadar
 
-    [Github Repo](https://github.com/Jemeni11/FicRadar)
+    [Github Repo](https://github.com/Jemeni11/FicRadar) • [Chrome Web Store](https://chromewebstore.google.com/detail/ficradar/fghclogjcpjoiefcecibmedgocnogmbj) • [Mozilla Firefox Browser Add-ons](https://addons.mozilla.org/en-US/android/addon/ficradar/)
 
     FicRadar is a browser extension that collects fanfiction-related links from a specific user's interactions (forum posts and comments) without storing the actual content of those posts. It only gathers the URLS of the works they engage with and counts how often each link appears. This helps you discover stories they interact with the most, making it easier to find new reads from sources you trust.
 
