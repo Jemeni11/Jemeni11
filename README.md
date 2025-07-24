@@ -37,7 +37,7 @@
 
   - FicRadar
 
-    [Github Repo](https://github.com/Jemeni11/FicRadar) • [Chrome Web Store](https://chromewebstore.google.com/detail/ficradar/fghclogjcpjoiefcecibmedgocnogmbj) • [Mozilla Firefox Browser Add-ons](https://addons.mozilla.org/en-US/android/addon/ficradar/)
+    [Github Repo](https://github.com/Jemeni11/FicRadar) • [Chrome Web Store](https://chromewebstore.google.com/detail/ficradar/fghclogjcpjoiefcecibmedgocnogmbj) • [Mozilla Firefox Browser Add-ons](https://addons.mozilla.org/en-US/android/addon/ficradar/) • [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/ficradar/kechmepbngbdnjgdoefjnbiainbikdpi)
 
     FicRadar is a browser extension that collects fanfiction-related links from a specific user's interactions (forum posts and comments) without storing the actual content of those posts. It only gathers the URLS of the works they engage with and counts how often each link appears. This helps you discover stories they interact with the most, making it easier to find new reads from sources you trust.
 
