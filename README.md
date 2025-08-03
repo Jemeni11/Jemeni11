@@ -224,6 +224,12 @@
 
 ##### CLI
 
+  - Color Sweep
+
+    [npm Package](https://www.npmjs.com/package/color-sweep) • [GitHub Repo](https://github.com/Jemeni11/color-sweep)
+
+    Color Sweep is a CLI tool that scans Tailwind projects for overused arbitrary color values and promotes them into your config. It helps clean up one-off color usage and improve design consistency by automatically detecting repeated colors like `bg-[#ff0000]` and converting them to named tokens in your Tailwind configuration.
+
   - PhotoLean
 
     [Github Repo](https://github.com/Jemeni11/PhotoLean)
