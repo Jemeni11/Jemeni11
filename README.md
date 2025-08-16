@@ -218,7 +218,9 @@
       - (Optional) Modify file names for better organisation.
       - Future feature: If your design includes both mobile and desktop views, you can select two images to generate optimised assets for each.
 
-  - [EpubView](https://github.com/Jemeni11/EpubView)
+  - EpubView
+
+    [GitHub Repo](https://github.com/Jemeni11/EpubView)
 
     A VSCode extension for reading EPUB files directly in your editor.
 
