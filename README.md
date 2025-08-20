@@ -111,13 +111,16 @@
 - [ReactViteTS](https://github.com/Jemeni11/ReactViteTS)
   
   This is a vite template with the following installed:
-  - Vite 6.1.0
-  - React 19.0.0
-  - Typescript 5.7.2
-  - Tailwind 4.0.6
-  - Prettier 3.5.1
-  - prettier-plugin-tailwind 0.6.11
-  - ESLint 9.19.0
+  - Vite v7
+  - React v19
+  - Typescript v5
+  - TailwindCSS v4
+  - Prettier v3
+  - prettier-plugin-tailwind v0.6.14
+  - ESLint v9
+  - Stylelint v16
+  - lint-staged
+  - @ianvs/prettier-plugin-sort-imports v4
 
 
 - [Journal Template](https://github.com/Jemeni11/Python-Scripts/tree/master/Journal%20Template)
