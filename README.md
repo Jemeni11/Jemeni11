@@ -18,7 +18,7 @@
 
 ### Languages and Tools:
 - **Languages** - HTML5, CSS3, JavaScript, TypeScript, Python3
-- **Frameworks/Libraries/Toolkits** - React, NextJS, TailwindCSS, SASS/SCSS, React Native, Jotai, Zustand, Redux (Toolkit), React Router
+- **Frameworks/Libraries/Toolkits** - React, NextJS, TailwindCSS, SASS/SCSS, React Native, Jotai, Zustand, Redux (Toolkit), React Router, Tanstack Query
 - **Tools** - Expo SDK, Vite, Clerk, Git, VS Code, PyCharm, Vercel, Netlify, GitHub, Firebase, Yarn, NPM, Chrome
 
 ### Articles
