@@ -23,7 +23,7 @@
 
 - **Languages** - HTML5, CSS3, JavaScript, TypeScript, Python3
 - **Frameworks/Libraries/Toolkits** - React, NextJS, TailwindCSS, SASS/SCSS, React Native, Jotai, Zustand, Redux (Toolkit), React Router, Tanstack Query
-- **Tools** - Expo SDK, Vite, Shadcn/ui, Radix, Clerk, Git, VS Code, PyCharm, Vercel, Netlify, GitHub, Firebase, pnpm, Yarn, NPM, Chrome
+- **Tools** - Expo SDK, Vite, shadcn/ui, Radix, Clerk, Git, VS Code, PyCharm, Vercel, Netlify, GitHub, Firebase, pnpm, Yarn, NPM, Chrome
 
 ### Articles
 
@@ -273,7 +273,7 @@ These projects are unlikely to be finished/updated anytime soon
 
 - AuthorCraft
 
-  [Live Link](https://author-craft.vercel.app/) ✦ [GitHub Repo](https://github.com/Jemeni11/AuthorCraft)
+  [GitHub Repo](https://github.com/Jemeni11/AuthorCraft) ✦ [Live Link](https://author-craft.vercel.app/)
 
   AuthorCraft empowers writers of all backgrounds to harness their creativity, providing a user-friendly and intuitive platform for crafting stories, novels, and ebooks. Whether you're an aspiring novelist, a seasoned author, or a student, our robust toolkit is designed to inspire and support your writing endeavours.
 
