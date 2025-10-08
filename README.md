@@ -62,7 +62,7 @@
 
   [GitHub Repo](https://github.com/Jemeni11/CrossRename) ✦ [PyPI Live Link](https://pypi.org/project/CrossRename/)
 
-  [![PyPI Downloads](https://static.pepy.tech/badge/crossrename)](https://pepy.tech/projects/CrossRename)
+  [![PyPI Downloads](https://static.pepy.tech/personalized-badge/crossrename?period=total&units=NONE&left_color=GREY&right_color=BLUE&left_text=PyPI+downloads)](https://pepy.tech/projects/crossrename)
 
   CrossRename is a tool that helps make your file and directory names work perfectly with your computer. It doesn't matter if you use Linux, Windows, or both. CrossRename makes sure your file names follow your computer's rules, so everything runs smoothly.
 
@@ -70,7 +70,7 @@
 
   [GitHub Repo](https://github.com/Jemeni11/TerminalAlert) ✦ [PyPI Live Link](https://pypi.org/project/TerminalAlert/)
 
-  [![PyPI Downloads](https://static.pepy.tech/badge/terminalalert)](https://pepy.tech/projects/terminalalert)
+  [![PyPI Downloads](https://static.pepy.tech/personalized-badge/terminalalert?period=total&units=NONE&left_color=GREY&right_color=BLUE&left_text=PyPI+downloads)](https://pepy.tech/projects/terminalalert)
 
   TerminalAlert is a Python CLI tool that ensures you never miss the completion of your terminal commands. Whether successful or not, it sends desktop notifications to keep you informed, allowing you to focus on other tasks while commands run in the background. Built with Python 3.
 
@@ -98,7 +98,7 @@
 
   [GitHub Repo](https://github.com/Jemeni11/FicImage) ✦ [PyPI Live Link](https://pypi.org/project/FicImageScript/)
 
-  [![PyPI Downloads](https://static.pepy.tech/badge/ficimagescript)](https://pepy.tech/projects/FicImageScript)
+  [![PyPI Downloads](https://static.pepy.tech/personalized-badge/ficimagescript?period=total&units=NONE&left_color=GREY&right_color=BLUE&left_text=PyPI+downloads)](https://pepy.tech/projects/ficimagescript)
 
   FicImage is an application designed to enhance the reading experience of [FicHub](https://fichub.net) EPUBS. With FicImage, users can easily add missing images to their FicHub epubs.
 
