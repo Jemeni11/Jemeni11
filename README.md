@@ -16,7 +16,7 @@
 - 🔭 I am a Frontend Web Developer.
 - 😄 My Pronouns are He/Him.
 - 🔭 See what I am [currently working on](#work-in-progress).
-- ⚡ My last project was [Gradie](https://gradie-jemeni.vercel.app/) ✦ [FicRadar](https://github.com/Jemeni11/FicRadar).
+- ⚡ My last project was [Gradie](https://gradie.xyz/) ✦ [FicRadar](https://github.com/Jemeni11/FicRadar).
 - 💰 If you'd like, you can support me on [GitHub Sponsors](https://github.com/sponsors/Jemeni11/) or [Buy Me A Coffee](https://www.buymeacoffee.com/jemeni11).
 
 ### Languages and Tools
