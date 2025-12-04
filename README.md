@@ -30,9 +30,13 @@
 - Boost Your Productivity with Shell Commands: A beginner's guide to creating aliases and functions - [Hashnode](https://jemeni11.hashnode.dev/boost-your-productivity-with-shell-commands) ✦ [Dev.to](https://dev.to/jemeni11/boost-your-productivity-with-shell-commands-a-beginners-guide-to-creating-aliases-and-functions-255e)
 - Why Gradie's colour switcher does two things at once (and why that's not a bug) - [Hashnode](https://jemeni11.hashnode.dev/gradie-notes-1)
 
+### Open Source Contributions
+
+I've implemented features for libraries like [epubjs-react-native](https://github.com/victorsoares96/epubjs-react-native/pull/73) and [Leech.py](https://github.com/kemayo/leech/pull/89), and improved documentation for tools including [Expo](https://github.com/expo/expo/pull/21686), [Dart](https://github.com/dart-lang/site-www/pull/4687), Chrome Extensions ([#5846](https://github.com/GoogleChrome/developer.chrome.com/issues/5846), [#6818](https://github.com/GoogleChrome/developer.chrome.com/issues/6818), & [#6819](https://github.com/GoogleChrome/developer.chrome.com/issues/6819)), [Hanko Docs](https://github.com/teamhanko/docs/pull/19), and [Tina CMS](https://github.com/tinacms/tina.io/pull/1666). Additionally, I've contributed to projects such as [Skitter API](https://github.com/FanFicDev/skitter_api/pull/1) and [ngTechEvents](https://github.com/kaf-lamed-beyt/ng-tech-events).
+
 ### Projects
 
-#### Completed Projects
+#### Featured Projects
 
 - Gradie
 
@@ -40,11 +44,37 @@
 
   Gradie is a design tool that extracts the most prominent colours from an image and turns them into a smooth, beautiful gradient.
 
+- CrossRename
+
+  [GitHub Repo](https://github.com/Jemeni11/CrossRename) ✦ [PyPI Live Link](https://pypi.org/project/CrossRename/)
+
+  [![PyPI Downloads](https://static.pepy.tech/personalized-badge/crossrename?period=total&units=NONE&left_color=GREY&right_color=BLUE&left_text=PyPI+downloads)](https://pepy.tech/projects/crossrename)
+
+  CrossRename is a tool that helps make your file and directory names work perfectly with your computer. It doesn't matter if you use Linux, Windows, or both. CrossRename makes sure your file names follow your computer's rules, so everything runs smoothly.
+
+- AspectMatic
+
+  [Figma GitHub Repo](https://github.com/Jemeni11/AspectMatic) ✦ [Figma Community](https://www.figma.com/community/plugin/1297912439687792545/aspectmatic) ✦ [Penpot GitHub Repo](https://github.com/Jemeni11/AspectMatic-Penpot) ✦ [Penpot Hub](https://penpot.app/penpothub/plugins/aspectmatic)
+
+  AspectMatic is a Figma/Penpot plugin that automates aspect ratio calculations for developers. I got tired of calculating the long way, so I made a plugin.
+
+  Both versions were built with TypeScript, Prettier, and Tailwind CSS. The Figma plugin uses [Create Figma Plugin](https://yuanqing.github.io/create-figma-plugin/) and Preact, while the Penpot version uses React.
+
+- TerminalAlert
+
+  [GitHub Repo](https://github.com/Jemeni11/TerminalAlert) ✦ [PyPI Live Link](https://pypi.org/project/TerminalAlert/)
+
+  [![PyPI Downloads](https://static.pepy.tech/personalized-badge/terminalalert?period=total&units=NONE&left_color=GREY&right_color=BLUE&left_text=PyPI+downloads)](https://pepy.tech/projects/terminalalert)
+
+  TerminalAlert is a Python CLI tool that ensures you never miss the completion of your terminal commands. Whether successful or not, it sends desktop notifications to keep you informed, allowing you to focus on other tasks while commands run in the background. Built with Python 3.
+
 - FicRadar
 
   [Github Repo](https://github.com/Jemeni11/FicRadar) ✦ [Chrome Web Store](https://chromewebstore.google.com/detail/ficradar/fghclogjcpjoiefcecibmedgocnogmbj) ✦ [Mozilla Firefox Browser Add-ons](https://addons.mozilla.org/en-US/android/addon/ficradar/) ✦ [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/ficradar/kechmepbngbdnjgdoefjnbiainbikdpi)
 
   FicRadar is a browser extension that collects fanfiction-related links from a specific user's interactions (forum posts and comments) without storing the actual content of those posts. It only gathers the URLS of the works they engage with and counts how often each link appears. This helps you discover stories they interact with the most, making it easier to find new reads from sources you trust.
+
+#### Other Completed Projects
 
 - WorkQuest
 
@@ -58,29 +88,15 @@
 
   TalesTrove is a browser extension that allows users to easily save links to their favourite fictional stories and series. It supports FanFiction.net, Archive of Our Own, and several XenForo sites. It was built with Plasmo, React, TypeScript, and Tailwind.
 
-- CrossRename
+- FicImage
 
-  [GitHub Repo](https://github.com/Jemeni11/CrossRename) ✦ [PyPI Live Link](https://pypi.org/project/CrossRename/)
+  [GitHub Repo](https://github.com/Jemeni11/FicImage) ✦ [PyPI Live Link](https://pypi.org/project/FicImageScript/)
 
-  [![PyPI Downloads](https://static.pepy.tech/personalized-badge/crossrename?period=total&units=NONE&left_color=GREY&right_color=BLUE&left_text=PyPI+downloads)](https://pepy.tech/projects/crossrename)
+  [![PyPI Downloads](https://static.pepy.tech/personalized-badge/ficimagescript?period=total&units=NONE&left_color=GREY&right_color=BLUE&left_text=PyPI+downloads)](https://pepy.tech/projects/ficimagescript)
 
-  CrossRename is a tool that helps make your file and directory names work perfectly with your computer. It doesn't matter if you use Linux, Windows, or both. CrossRename makes sure your file names follow your computer's rules, so everything runs smoothly.
+  FicImage is an application designed to enhance the reading experience of [FicHub](https://fichub.net) EPUBS. With FicImage, users can easily add missing images to their FicHub epubs.
 
-- TerminalAlert
-
-  [GitHub Repo](https://github.com/Jemeni11/TerminalAlert) ✦ [PyPI Live Link](https://pypi.org/project/TerminalAlert/)
-
-  [![PyPI Downloads](https://static.pepy.tech/personalized-badge/terminalalert?period=total&units=NONE&left_color=GREY&right_color=BLUE&left_text=PyPI+downloads)](https://pepy.tech/projects/terminalalert)
-
-  TerminalAlert is a Python CLI tool that ensures you never miss the completion of your terminal commands. Whether successful or not, it sends desktop notifications to keep you informed, allowing you to focus on other tasks while commands run in the background. Built with Python 3.
-
-- AspectMatic
-
-  [Figma GitHub Repo](https://github.com/Jemeni11/AspectMatic) ✦ [Figma Community](https://www.figma.com/community/plugin/1297912439687792545/aspectmatic) ✦ [Penpot GitHub Repo](https://github.com/Jemeni11/AspectMatic-Penpot) ✦ [Penpot Hub](https://penpot.app/penpothub/plugins/aspectmatic)
-
-  AspectMatic is a Figma/Penpot plugin that automates aspect ratio calculations for developers. I got tired of calculating the long way, so I made a plugin.
-
-  Both versions were built with TypeScript, Prettier, and Tailwind CSS. The Figma plugin uses [Create Figma Plugin](https://yuanqing.github.io/create-figma-plugin/) and Preact, while the Penpot version uses React.
+  Built with Python.
 
 - GeoTrace
 
@@ -93,16 +109,6 @@
   [GitHub Repo](https://github.com/Jemeni11/React-Redux-Shopping-App) ✦ [Live link](https://jemeni-react-redux-shopping-app.netlify.app/)
 
   A React-based e-commerce web app that lets users browse products, add items to a cart, and checkout, using Redux Toolkit, React Router, and FakeStoreApi data.
-
-- FicImage
-
-  [GitHub Repo](https://github.com/Jemeni11/FicImage) ✦ [PyPI Live Link](https://pypi.org/project/FicImageScript/)
-
-  [![PyPI Downloads](https://static.pepy.tech/personalized-badge/ficimagescript?period=total&units=NONE&left_color=GREY&right_color=BLUE&left_text=PyPI+downloads)](https://pepy.tech/projects/ficimagescript)
-
-  FicImage is an application designed to enhance the reading experience of [FicHub](https://fichub.net) EPUBS. With FicImage, users can easily add missing images to their FicHub epubs.
-
-  Built with Python.
 
 - FlagFinder
 
@@ -170,7 +176,10 @@
   - A Python script that retrieves all saved Wi-Fi names and passwords.
   - Currently only works on Windows OS.
 
-#### Work In Progress
+<div id="work-in-progress"></div>
+<details> 
+	<summary>Work In Progress</summary> 
+	<br>
 
 ##### Web
 
@@ -259,8 +268,12 @@
 
   PhotoLean is a command-line tool designed to optimise image file sizes and save disk space.
 
-#### Graveyard
 
+</details>
+
+<details> 
+	<summary>The Graveyard (Archived Projects)</summary>
+	<br>
 These projects are unlikely to be finished/updated anytime soon
 
 - Ebook reader
@@ -306,6 +319,8 @@ These projects are unlikely to be finished/updated anytime soon
 - Portfolio Website
 
   [GitHub Repo](https://github.com/Jemeni11/jemeni)
+
+</details>
 
 <!--
 ##### Terminal
