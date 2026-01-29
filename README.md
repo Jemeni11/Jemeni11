@@ -54,7 +54,7 @@ For two consecutive years (2024–2025), I've been a core contributor to [APICon
 
   [![PyPI Downloads](https://static.pepy.tech/personalized-badge/crossrename?period=total&units=NONE&left_color=GREY&right_color=BLUE&left_text=PyPI+downloads)](https://pepy.tech/projects/crossrename)
 
-  CrossRename is a tool that helps make your file and directory names work perfectly with your computer. It doesn't matter if you use Linux, Windows, or both. CrossRename makes sure your file names follow your computer's rules, so everything runs smoothly.
+  CrossRename is a tool that helps make your file and directory names work perfectly with your computer. It doesn't matter if you use Linux, Windows, or macOS. CrossRename makes sure your file names follow your computer's rules, so everything runs smoothly.
 
 - AspectMatic
 
