@@ -11,13 +11,12 @@
 
 ### I'm **Emmanuel** 👋
 
-- 💬 I write JavaScript (React.js, Next.js, React Native) and Python.
-- 🌱 I’m currently learning ... well, everything really. Eventually.
-- 🔭 I am a Frontend Web Developer.
-- 😄 My Pronouns are He/Him.
-- 🔭 See what I am [currently working on](#work-in-progress).
-- ⚡ My last project was [Gradie](https://gradie.xyz/) ✦ [FicRadar](https://github.com/Jemeni11/FicRadar).
-- 💰 If you'd like, you can support me on [GitHub Sponsors](https://github.com/sponsors/Jemeni11/) or [Buy Me A Coffee](https://www.buymeacoffee.com/jemeni11).
+- I write JavaScript (React.js, Next.js, React Native) and Python.
+- I am a Frontend Web Developer.
+- My Pronouns are He/Him.
+- See what I am [currently working on](#work-in-progress).
+- My last project was [Gradie](https://gradie.xyz/) ✦ [FicRadar](https://github.com/Jemeni11/FicRadar).
+- If you'd like, you can support me on [GitHub Sponsors](https://github.com/sponsors/Jemeni11/) or [Buy Me A Coffee](https://www.buymeacoffee.com/jemeni11).
 
 ### Languages and Tools
 
@@ -34,7 +33,7 @@
 
 I've implemented features for libraries including [epubjs-react-native](https://github.com/victorsoares96/epubjs-react-native/pull/73) and [Leech.py](https://github.com/kemayo/leech/pull/89), contributed data to the [ng-universities API](https://github.com/kaf-lamed-beyt/ng-universities/pull/27), contributed to [MDN Web Docs](https://github.com/mdn/content/pull/30702) and overhauled the [WebToEpub](https://github.com/dteviot/WebToEpub/pull/1520) README.
  
-I've contributed to community projects including [Skitter API](https://github.com/FanFicDev/skitter_api/pull/1), [ngTechEvents](https://github.com/kaf-lamed-beyt/ng-tech-events), and university tech communities [MLSA](https://github.com/MLSA-UNILAG/mlsa_unilag_site) and [GDSC](https://github.com/DSC-Unilag/gdgoc-website-fe). I've reported bugs and suggested improvements for tools like [Polar](https://github.com/polarsource/polar/issues/3889) and FanFicFare ([#914](https://github.com/JimmXinu/FanFicFare/issues/914) & [#922](https://github.com/JimmXinu/FanFicFare/issues/922)). 
+I've contributed to community projects including [Skitter API](https://github.com/FanFicDev/skitter_api/pull/1), [ngTechEvents](https://github.com/kaf-lamed-beyt/ng-tech-events), and university tech communities [MLSA](https://github.com/MLSA-UNILAG/mlsa_unilag_site) and [GDSC](https://github.com/DSC-Unilag/gdgoc-website-fe). I've reported bugs for tools like [Polar](https://github.com/polarsource/polar/issues/3889) and FanFicFare ([#914](https://github.com/JimmXinu/FanFicFare/issues/914) & [#922](https://github.com/JimmXinu/FanFicFare/issues/922)). 
 
 For two consecutive years (2024–2025), I've been a core contributor to [APIConf](https://apiconf.net/) ([Repo](https://github.com/apiconf/landing-page)), Africa's premier API literacy and innovation conference.
 
@@ -276,7 +275,7 @@ For two consecutive years (2024–2025), I've been a core contributor to [APICon
 </details>
 
 <details> 
-	<summary>The Graveyard (Archived Projects)</summary>
+	<summary>On Hold (Archived Projects)</summary>
 	<br>
 These projects are unlikely to be finished/updated anytime soon
 
