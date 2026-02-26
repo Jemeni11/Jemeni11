@@ -113,11 +113,11 @@ For two consecutive years (2024–2025), I've been a core contributor to [APICon
 - Web
   - PencilFX
 
-    A WebAssembly-powered tool that transforms images into pencil art. Built with Python and compiled to WASM, this project lets users upload an image in a React frontend and get a sketch-like version instantly. Python was used because the script already existed, and this project is primarily for learning WASM.
+    A tool that transforms images into pencil sketch art, running entirely in the browser. Built with a React frontend and Python image processing via Pyodide — a WebAssembly-compiled Python runtime — as an introduction to WASM in web projects.
 
   - Unfoldly
 
-    A link shortener that also generates AI-powered OG images. Unfoldly takes a URL, extracts metadata and the site’s favicon, and then creates a custom preview image. The shortened link redirects to the original URL with a visually enhanced share preview.
+    A link shortener that generates custom OG images. Takes a URL, extracts metadata and the site's favicon, and creates a visual preview using a canvas-based template. The shortened link redirects to the original URL with an enhanced share preview.
 
 - Extensions/Plugins
   - FontCache
@@ -130,7 +130,7 @@ For two consecutive years (2024–2025), I've been a core contributor to [APICon
 
   - AdaptImage
 
-    A Figma extension that generates optimised images for different screen sizes and frameworks. Outputs proper `<picture>` tags, supports framework-specific image components (e.g., Next.js `<Image>`), and converts to modern formats like AVIF and WebP.
+    A Figma extension that generates optimised images for different screen sizes and frameworks. Outputs proper `<picture>` tags, supports framework-specific image components (e.g., Next.js `<Image>`), and converts to modern formats like WebP.
 
   - EpubView
 
