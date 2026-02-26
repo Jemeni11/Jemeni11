@@ -77,9 +77,11 @@ For two consecutive years (2024–2025), I've been a core contributor to [APICon
 
   FicRadar is a browser extension that collects fanfiction-related links from a specific user's interactions (forum posts and comments) without storing the actual content of those posts. It only gathers the URLS of the works they engage with and counts how often each link appears. This helps you discover stories they interact with the most, making it easier to find new reads from sources you trust.
 
-#### Other Completed Projects
+<details> 
+	<summary>Other Projects</summary> 
+	<br>
 
-- **WorkQuest** A portfolio site built as a SIWES application — structured as a web experience rather than a document submission. Built with React, Vite, and TypeScript (via ReactViteTS).
+- **WorkQuest** Portfolio website built for SIWES (internship) applications. Built with ReactViteTS.
 
   [Live Link](https://work-quest.vercel.app/)
 
@@ -101,96 +103,53 @@ For two consecutive years (2024–2025), I've been a core contributor to [APICon
 
   [GitHub Repo](https://github.com/Jemeni11/ReactViteTS)
 
+</details>
+
 <div id="work-in-progress"></div>
 <details> 
 	<summary>Work In Progress</summary> 
 	<br>
 
-##### Web
+- Web
+  - PencilFX
 
-- PencilFX
+    A WebAssembly-powered tool that transforms images into pencil art. Built with Python and compiled to WASM, this project lets users upload an image in a React frontend and get a sketch-like version instantly. Python was used because the script already existed, and this project is primarily for learning WASM.
 
-  A WebAssembly-powered tool that transforms images into pencil art. Built with Python and compiled to WASM, this project lets users upload an image in a React frontend and get a sketch-like version instantly. Python was used because the script already existed, and this project is primarily for learning WASM.
+  - Unfoldly
 
-- Unfoldly
+    A link shortener that also generates AI-powered OG images. Unfoldly takes a URL, extracts metadata and the site’s favicon, and then creates a custom preview image. The shortened link redirects to the original URL with a visually enhanced share preview.
 
-  A link shortener that also generates AI-powered OG images. Unfoldly takes a URL, extracts metadata and the site’s favicon, and then creates a custom preview image. The shortened link redirects to the original URL with a visually enhanced share preview.
+- Extensions/Plugins
+  - FontCache
 
-##### Mobile
+    A browser extension for collecting and organising fonts from any webpage, saved with site and date details.
 
-- StatusSnip
+  - ChartFlow
 
-  [GitHub Repo](https://github.com/Jemeni11/StatusSnip)
+    A Figma extension for generating and editing charts with customisable options.
 
-  Trim, Snap, Share! Your shortcut to perfectly sliced WhatsApp status videos.
+  - AdaptImage
 
-  Slice and dice your videos with StatusSnip! 🎬 Trim your tales, snap your highlights, and share seamlessly on WhatsApp. No more 30-second limits – just the good stuff, straight to your status. Download now and make every moment count!
+    A Figma extension that generates optimised images for different screen sizes and frameworks. Outputs proper `<picture>` tags, supports framework-specific image components (e.g., Next.js `<Image>`), and converts to modern formats like AVIF and WebP.
 
-- SnapQR
+  - EpubView
 
-  [GitHub Repo](https://github.com/Jemeni11/SnapQR)
+    A VSCode extension for reading EPUB files directly in your editor.
 
-  Beyond Scanning - Remake, Share, and Explore. SnapQR is a QR code scanner and generator app for mobile devices. Building with React Native and Expo.
+    [GitHub Repo](https://github.com/Jemeni11/EpubView)
 
-- TextMotion
+- CLI
+  - Color Sweep
 
-  Create videos and GIFS with a dynamic text effect. Just enter your text, choose a style, and generate an animation.
+    A CLI tool that scans Tailwind projects for overused arbitrary color values and promotes them into your config as named tokens.
 
-- SoloShot
+    [GitHub Repo](https://github.com/Jemeni11/color-sweep) ✦ [npm Package](https://www.npmjs.com/package/color-sweep)
 
-  A camera that recognises your face and automatically blurs others in photos.
+  - PhotoLean
 
-- StatusCanvas
+    A CLI tool for optimising image file sizes.
 
-  Turn your text into stylish WhatsApp status images: Customise fonts, colours, and layouts, bypassing character limits for more expressive updates.
-
-- Unread
-
-  With Unread, you can mark important messages so they don’t get lost in the chat flood. If a recipient reads but forgets to reply, Unread ensures they don’t forget for long, sending gentle (or not-so-gentle) reminders until they respond. No more missed responses. Just better conversations.
-
-##### Extensions/Plugins
-
-- FontCache
-
-  FontCache is your go-to browser extension for collecting and organising fonts from any webpage. Easily discover fonts in use, pick your favourites, and save them with site and date details.
-
-- ChartFlow
-
-  A Figma extension for generating charts with customizable options. Easily create and edit visual data representations directly in Figma.
-
-- StayPut
-
-  StayPut remembers where you left off on a page and automatically scrolls back to that spot when you return. Just select an element, and it saves your position for next time.
-
-- AdaptImage
-
-  A Figma extension that generates optimised images for different screen sizes and frameworks. Select an image, and AdaptImage will:
-  - Generate multiple sizes.
-  - Create proper `<picture>` tags with `<source>` elements.
-  - Support framework-specific image tags (e.g., Next.js `<Image>`).
-  - Convert to different formats like AVIF and Webp.
-  - (Optional) Modify file names for better organisation.
-  - Future feature: If your design includes both mobile and desktop views, you can select two images to generate optimised assets for each.
-
-- EpubView
-
-  [GitHub Repo](https://github.com/Jemeni11/EpubView)
-
-  A VSCode extension for reading EPUB files directly in your editor.
-
-##### CLI
-
-- Color Sweep
-
-  [GitHub Repo](https://github.com/Jemeni11/color-sweep) ✦ [npm Package](https://www.npmjs.com/package/color-sweep)
-
-  Color Sweep is a CLI tool that scans Tailwind projects for overused arbitrary color values and promotes them into your config. It helps clean up one-off color usage and improve design consistency by automatically detecting repeated colors like `bg-[#ff0000]` and converting them to named tokens in your Tailwind configuration.
-
-- PhotoLean
-
-  [Github Repo](https://github.com/Jemeni11/PhotoLean)
-
-  PhotoLean is a command-line tool designed to optimise image file sizes and save disk space.
+    [Github Repo](https://github.com/Jemeni11/PhotoLean)
 
 </details>
 
@@ -199,48 +158,29 @@ For two consecutive years (2024–2025), I've been a core contributor to [APICon
 	<br>
 These projects are unlikely to be finished/updated anytime soon
 
-- Ebook reader
+- Web
+  - Portfolio Website
 
-  [GitHub Repo](https://github.com/Jemeni11/Ebook-Reader)
-  - A mobile app for reading ePUBs and PDFS
-  - Building with Expo, React Native and [@epubjs-react-native](https://github.com/victorsoares96/epubjs-react-native)
-  - This project inspired [this pull request](https://github.com/victorsoares96/epubjs-react-native/pull/73)
+    [GitHub Repo](https://github.com/Jemeni11/jemeni)
 
-- AuthorCraft
+- Mobile
+  - StatusSnip: A mobile app for trimming and sharing WhatsApp status videos.
 
-  [GitHub Repo](https://github.com/Jemeni11/AuthorCraft) ✦ [Live Link](https://author-craft.vercel.app/)
+    [GitHub Repo](https://github.com/Jemeni11/StatusSnip)
 
-  AuthorCraft empowers writers of all backgrounds to harness their creativity, providing a user-friendly and intuitive platform for crafting stories, novels, and ebooks. Whether you're an aspiring novelist, a seasoned author, or a student, our robust toolkit is designed to inspire and support your writing endeavours.
+  - SnapQR: A QR code scanner and generator app built with React Native and Expo.
 
-  Building with React, Next.js, Hanko Auth, Supabase Database, and shadcn (Tailwind + Radix UI).
+    [GitHub Repo](https://github.com/Jemeni11/SnapQR)
 
-  While working on this project, I submitted a [pull request to the Hanko Docs repository](https://github.com/teamhanko/docs/pull/19), and it got merged.
+  - TextMotion: A mobile app for creating videos and GIFs with dynamic text effects.
 
-- Connectify
+  - SoloShot: A camera app that recognises your face and automatically blurs others in photos.
 
-  [GitHub Repo](https://github.com/Jemeni11/Connectify) ✦ [Live Link](https://connectify-jemeni.vercel.app)
+  - StatusCanvas: A mobile app for creating stylish WhatsApp status images with custom fonts, colours, and layouts.
 
-  The NextJS-powered PWA for effortless contact management.
+  - Ebook reader: A mobile app for reading EPUBs and PDFs, built with Expo, React Native, and [@epubjs-react-native](https://github.com/victorsoares96/epubjs-react-native).
 
-  Building with React, NextJS, @ducanh2912/next-pwa, Rough Notation, Clerk Auth, and shadcn (TailwindCSS + Radix UI).
-
-- Intergalactic Encyclopedia
-
-  [GitHub Repo](https://github.com/Jemeni11/intergalactic-encyclopedia)
-
-  Intergalactic Encyclopedia is your ultimate guide to the Star Wars universe! This comprehensive application provides detailed information on planets, spaceships, vehicles, people, films, and species from a galaxy far, far away.
-
-  Building with React, React Native, Expo SDK, Typescript, Expo Router, Expo Google Fonts
-
-- Introspectia
-
-  [GitHub Repo](https://github.com/Jemeni11/Introspectia)
-
-  A personal journaling web app.
-
-- Portfolio Website
-
-  [GitHub Repo](https://github.com/Jemeni11/jemeni)
+    [GitHub Repo](https://github.com/Jemeni11/Ebook-Reader)
 
 </details>
 
