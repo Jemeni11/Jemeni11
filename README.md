@@ -32,8 +32,8 @@
 ### Open Source Contributions
 
 I've implemented features for libraries including [epubjs-react-native](https://github.com/victorsoares96/epubjs-react-native/pull/73) and [Leech.py](https://github.com/kemayo/leech/pull/89), contributed data to the [ng-universities API](https://github.com/kaf-lamed-beyt/ng-universities/pull/27), contributed to [MDN Web Docs](https://github.com/mdn/content/pull/30702) and overhauled the [WebToEpub](https://github.com/dteviot/WebToEpub/pull/1520) README.
- 
-I've contributed to community projects including [Skitter API](https://github.com/FanFicDev/skitter_api/pull/1), [ngTechEvents](https://github.com/kaf-lamed-beyt/ng-tech-events), and university tech communities [MLSA](https://github.com/MLSA-UNILAG/mlsa_unilag_site) and [GDSC](https://github.com/DSC-Unilag/gdgoc-website-fe). I've reported bugs for tools like [Polar](https://github.com/polarsource/polar/issues/3889) and FanFicFare ([#914](https://github.com/JimmXinu/FanFicFare/issues/914) & [#922](https://github.com/JimmXinu/FanFicFare/issues/922)). 
+
+I've contributed to community projects including [Skitter API](https://github.com/FanFicDev/skitter_api/pull/1), [ngTechEvents](https://github.com/kaf-lamed-beyt/ng-tech-events), and university tech communities [MLSA](https://github.com/MLSA-UNILAG/mlsa_unilag_site) and [GDSC](https://github.com/DSC-Unilag/gdgoc-website-fe). I've reported bugs for tools like [Polar](https://github.com/polarsource/polar/issues/3889) and FanFicFare ([#914](https://github.com/JimmXinu/FanFicFare/issues/914) & [#922](https://github.com/JimmXinu/FanFicFare/issues/922)).
 
 For two consecutive years (2024–2025), I've been a core contributor to [APIConf](https://apiconf.net/) ([Repo](https://github.com/apiconf/landing-page)), Africa's premier API literacy and innovation conference.
 
@@ -79,105 +79,27 @@ For two consecutive years (2024–2025), I've been a core contributor to [APICon
 
 #### Other Completed Projects
 
-- WorkQuest
+- **WorkQuest** A portfolio site built as a SIWES application — structured as a web experience rather than a document submission. Built with React, Vite, and TypeScript (via ReactViteTS).
 
   [Live Link](https://work-quest.vercel.app/)
 
-  WorkQuest is an interactive, web-based SIWES application designed to make a strong impression on potential employers. Instead of a traditional document, this project presents the application in a structured, engaging format.
-
-- Tales Trove
+- **Tales Trove** A browser extension for saving links to fanfiction and web fiction across FanFiction.net, Archive of Our Own, and several XenForo sites. Built with Plasmo, React, TypeScript, and Tailwind.
 
   [GitHub Repo](https://github.com/Jemeni11/TalesTrove) ✦ [Chrome Web Store](https://chromewebstore.google.com/detail/cjealedijmcdnkkfpgmobhaohjljlojg) ✦ [Firefox Browser Add-ons](https://addons.mozilla.org/en-US/firefox/addon/tales_trove/) ✦ [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/talestrove/lahledcnahkanmigdbaglgagcdleopjd)
 
-  TalesTrove is a browser extension that allows users to easily save links to their favourite fictional stories and series. It supports FanFiction.net, Archive of Our Own, and several XenForo sites. It was built with Plasmo, React, TypeScript, and Tailwind.
-
-- FicImage
+- **FicImage** A CLI tool that adds missing images back into FicHub-generated files. Built with Python.
 
   [GitHub Repo](https://github.com/Jemeni11/FicImage) ✦ [PyPI Live Link](https://pypi.org/project/FicImageScript/)
 
   [![PyPI Downloads](https://static.pepy.tech/personalized-badge/ficimagescript?period=total&units=NONE&left_color=GREY&right_color=BLUE&left_text=PyPI+downloads)](https://pepy.tech/projects/ficimagescript)
 
-  FicImage is an application designed to enhance the reading experience of [FicHub](https://fichub.net) EPUBS. With FicImage, users can easily add missing images to their FicHub epubs.
-
-  Built with Python.
-
-- GeoTrace
+- **GeoTrace** A React app that maps any IP address using the IP Geolocation API and Leaflet.js.
 
   [GitHub Repo](https://github.com/Jemeni11/GeoTrace) ✦ [Live Link](https://jemeni-geotrace.netlify.app/)
 
-  A React-based app that uses the IP Geolocation API and Leaflet.js to display the location of an IP address on an interactive map.
-
-- The Shop!
-
-  [GitHub Repo](https://github.com/Jemeni11/React-Redux-Shopping-App) ✦ [Live link](https://jemeni-react-redux-shopping-app.netlify.app/)
-
-  A React-based e-commerce web app that lets users browse products, add items to a cart, and checkout, using Redux Toolkit, React Router, and FakeStoreApi data.
-
-- FlagFinder
-
-  [GitHub Repo](https://github.com/Jemeni11/FrontendMentor/tree/11-rest-countries-api) ✦ [Live Link](https://jemeni-rest-countries.netlify.app/)
-
-  A mobile-first React app that displays countries from the REST Countries API, with search, region filtering, detailed views, border navigation, and a light/dark mode toggle.
-
-- ReactViteTS
+- **ReactViteTS** A personal Vite + React + TypeScript starter template, used as the base for most of my frontend projects. Includes TailwindCSS v4, Prettier, ESLint, Stylelint, Husky, lint-staged, and sorted imports out of the box.
 
   [GitHub Repo](https://github.com/Jemeni11/ReactViteTS)
-
-  This is a vite template with the following installed:
-
-  - Vite v7
-  - React v19
-  - Typescript v5
-  - TailwindCSS v4
-  - Prettier v3
-  - prettier-plugin-tailwind v0.6.14
-  - ESLint v9
-  - Stylelint v16
-  - lint-staged
-  - @ianvs/prettier-plugin-sort-imports v4
-
-- Splitter
-
-  [GitHub Repo](https://github.com/Jemeni11/FrontendMentor/tree/06-tip-calculator-app-main) ✦ [Live Link](https://jemeni-tip-calculator.netlify.app/)
-
-  A sleek JavaScript tip calculator that quickly computes tips and splits bills among friends with ease.
-
-- Journal Template
-
-  [GitHub Repo](https://github.com/Jemeni11/Python-Scripts/tree/master/Journal%20Template)
-
-  - Developed a Python script to automate the process of journaling.
-  - Created a user-friendly interface within the script to input a customised date or utilise the current date for journal entry initiation.
-  - Implemented automatic document creation with a well-structured nomenclature: "Week 01 of the Year 2023 (1.1 - 8.1).docx".
-
-- Chromium-Based Browser Extension Template
-
-  [GitHub Repo](https://github.com/Jemeni11/Chrome-Extension-CRXJS-Vite-TS-Template)
-
-  - Developed an extension template tailored for Chromium-based browsers.
-  - Built with CRXJS, Vite, and TypeScript.
-  - The extension was tested on Chrome, Edge, Brave, and Opera.
-
-- Splitter Mobile App
-
-  [GitHub Repo](https://github.com/Jemeni11/Tip-Splitter-Mobile-App) ✦ [Expo Snack Link](https://expo.dev/@jemeni11/tip-calculator)
-
-  Built a mobile app version of Splitter with React Native and Expo
-
-- ePub File Viewer
-
-  [GitHub Repo](https://github.com/Jemeni11/ePub-File-Viewer)
-
-  - An application that lets you explore the contents of an ePub file.
-  - Built with React Native, Expo and JSZip.
-  - [This reply](https://github.com/victorsoares96/epubjs-react-native/issues/69#issuecomment-1425816021) to an issue I created inspired this project.
-
-- WiFi Password Extractor CLI
-
-  [GitHub Repo](https://github.com/Jemeni11/WiFi-Password-Extractor-CLI)
-
-  - A Python script that retrieves all saved Wi-Fi names and passwords.
-  - Currently only works on Windows OS.
 
 <div id="work-in-progress"></div>
 <details> 
@@ -243,7 +165,6 @@ For two consecutive years (2024–2025), I've been a core contributor to [APICon
 - AdaptImage
 
   A Figma extension that generates optimised images for different screen sizes and frameworks. Select an image, and AdaptImage will:
-
   - Generate multiple sizes.
   - Create proper `<picture>` tags with `<source>` elements.
   - Support framework-specific image tags (e.g., Next.js `<Image>`).
@@ -271,7 +192,6 @@ For two consecutive years (2024–2025), I've been a core contributor to [APICon
 
   PhotoLean is a command-line tool designed to optimise image file sizes and save disk space.
 
-
 </details>
 
 <details> 
@@ -282,7 +202,6 @@ These projects are unlikely to be finished/updated anytime soon
 - Ebook reader
 
   [GitHub Repo](https://github.com/Jemeni11/Ebook-Reader)
-
   - A mobile app for reading ePUBs and PDFS
   - Building with Expo, React Native and [@epubjs-react-native](https://github.com/victorsoares96/epubjs-react-native)
   - This project inspired [this pull request](https://github.com/victorsoares96/epubjs-react-native/pull/73)
