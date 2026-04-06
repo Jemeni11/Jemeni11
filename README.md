@@ -27,7 +27,7 @@
 ### Articles
 
 - Boost Your Productivity with Shell Commands: A beginner's guide to creating aliases and functions - [Hashnode](https://jemeni11.hashnode.dev/boost-your-productivity-with-shell-commands) ✦ [Dev.to](https://dev.to/jemeni11/boost-your-productivity-with-shell-commands-a-beginners-guide-to-creating-aliases-and-functions-255e)
-- Why Gradie's colour switcher does two things at once (and why that's not a bug) - [Hashnode](https://jemeni11.hashnode.dev/gradie-notes-1)
+- Why Gradie's colour switcher does two things at once (and why that's not a bug) - [Hashnode](https://jemeni11.hashnode.dev/gradie-notes-1) ✦ [Dev.to](https://dev.to/jemeni11/why-gradies-colour-switcher-does-two-things-at-once-and-why-thats-not-a-bug-5aaa)
 
 ### Open Source Contributions
 
