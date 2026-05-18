@@ -99,10 +99,15 @@ For two consecutive years (2024–2025), I've been a core contributor to [APICon
 
   [GitHub Repo](https://github.com/Jemeni11/GeoTrace) ✦ [Live Link](https://jemeni-geotrace.netlify.app/)
 
-- **ReactViteTS** A personal Vite + React + TypeScript starter template, used as the base for most of my frontend projects. Includes TailwindCSS v4, Prettier, ESLint, Stylelint, Husky, lint-staged, and sorted imports out of the box.
+</details>
 
-  [GitHub Repo](https://github.com/Jemeni11/ReactViteTS)
+<details> 
+	<summary>Templates</summary>
+	<br>
 
+- [react4me](https://github.com/Jemeni11/react4me) An opinionated React template. Contains React 19, Vite 8, TypeScript v6, TailwindCSS v4, React Compiler, Oxc (Rust-powered formatter and linter), lint-staged and husky.
+- [tanstack4me](https://github.com/Jemeni11/tanstack4me) A Tanstack Start template repo
+- [wxt4me](https://github.com/Jemeni11/wxt4me) A WXT browser extension template
 </details>
 
 <div id="work-in-progress"></div>
